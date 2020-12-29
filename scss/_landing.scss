@@ -298,8 +298,9 @@
             }
 
             @media #{$breakpoint-xs} {
-                font-size: 40px;
+                font-size: 30px;
                 width: 110%;
+                margin-bottom: 1rem;
             }
         }
 
@@ -322,7 +323,7 @@
             }
 
             @media #{$breakpoint-xs} {
-                font-size: 18px;
+                font-size: 16px;
                 margin-bottom: 1.5rem;
                 margin-right: 0;
             }

@@ -170,7 +170,7 @@
         background-position-x: -16em;
         background-size: 300%;
 
-        @media #{$breakpoint-xs} { background-position-x: 0;}
+        @media #{$breakpoint-xs} { background-position-x: -6rem; background-position-y: -4rem;  background-size: 200%;}
     }
     &.img2{        
         background-image: url('./img/bg-img/2-img.jpg');
@@ -178,7 +178,7 @@
             background-position-y: 0;
             background-size: 270%;
 
-        @media #{$breakpoint-xs} { background-position-x: 0;}
+        @media #{$breakpoint-xs} { background-position-x: -12rem; background-position-y: -1rem;  background-size: 200%;}
     }
     &.img3{        
         background-image: url('./img/bg-img/3-img.jpg');
@@ -190,7 +190,7 @@
         background-image: url('./img/bg-img/4-img.jpg');
         background-position-x: -21rem;
 
-        @media #{$breakpoint-xs} { background-position-x: 0;}
+        @media #{$breakpoint-xs} { background-position-x: 0; background-position-y: 0;}
     }
 
     img {

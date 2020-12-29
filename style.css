@@ -663,7 +663,7 @@ a.btn-trans-card {
   @media only screen and (max-width: 767px) {
     .about-landing-area {
       padding: 3% 5%;
-      padding-bottom: 0; } }
+      padding-bottom: 5rem; } }
 
 .phill-area-hero {
   padding-top: 9%;
@@ -680,7 +680,7 @@ a.btn-trans-card {
     padding-bottom: 0; }
     @media only screen and (max-width: 767px) {
       .about-area.padd-about {
-        padding: 5rem 1.5rem;
+        padding: 20rem 1.5rem;
         margin-bottom: 0;
         padding-bottom: 5rem; } }
   .about-area.padd-food {
@@ -733,9 +733,9 @@ a.btn-trans-card {
     margin-right: -34rem; }
     @media only screen and (max-width: 767px) {
       .about-area .img-lateral-about {
-        width: 100%;
-        margin-top: -7rem;
-        margin-right: -3.5rem; } }
+        width: 120%;
+        margin-top: -12.5rem;
+        margin-right: -2rem; } }
   .about-area .img-lateral-Food {
     width: 35%;
     position: absolute;
@@ -915,9 +915,8 @@ a.btn-trans-card {
         margin-right: 0; }
         @media only screen and (max-width: 767px) {
           .about-area .nl-content h3.a {
-            margin-right: 0;
-            width: 65%;
-            font-size: 16px; } }
+            width: 100%;
+            font-size: 19px; } }
       .about-area .nl-content h3.b {
         margin-right: 0; }
         @media only screen and (max-width: 767px) {
@@ -1813,17 +1812,57 @@ a.btn-trans-card {
   position: relative;
   z-index: 1;
   padding: 3% 11%; }
-  .services-area.padd-service {
-    padding: 10rem 1.5rem;
-    padding-left: 5rem;
-    margin-bottom: 1rem;
+  .services-area.img {
+    padding: 0; }
+  .services-area.padd-food {
+    padding: 10rem 3rem;
+    padding-left: 55%;
+    margin-bottom: 0;
     padding-bottom: 0; }
     @media only screen and (max-width: 767px) {
-      .services-area.padd-service {
-        padding: 8rem 1.5rem;
-        overflow-x: hidden;
+      .services-area.padd-food {
+        padding: 19rem 2rem;
+        padding-bottom: 5rem; } }
+  .services-area.padd-heal {
+    padding: 10rem 46% 3rem 6rem;
+    margin-bottom: 0; }
+    @media only screen and (max-width: 767px) {
+      .services-area.padd-heal {
+        padding: 21rem 2rem;
+        padding-bottom: 5rem; } }
+  .services-area.padd-error {
+    padding: 10rem 3rem;
+    padding-left: 5rem;
+    margin-bottom: 0;
+    padding-bottom: 0; }
+    @media only screen and (max-width: 767px) {
+      .services-area.padd-error {
+        padding: 13rem 3rem;
+        padding-left: 55%;
         margin-bottom: 0;
-        padding-bottom: 1rem; } }
+        padding-bottom: 0; } }
+  .services-area .img-lateral-Food {
+    width: 69%;
+    position: absolute;
+    z-index: 2;
+    left: 0;
+    margin-top: 4rem;
+    margin-left: -2rem; }
+    @media only screen and (max-width: 767px) {
+      .services-area .img-lateral-Food {
+        margin-top: 4rem;
+        margin-left: -1rem;
+        width: 100%; } }
+  .services-area .img-lateral-heal {
+    width: 55%;
+    position: absolute;
+    z-index: 2;
+    right: 0;
+    margin-top: 4rem; }
+    @media only screen and (max-width: 767px) {
+      .services-area .img-lateral-heal {
+        width: 100%;
+        margin-top: 4rem; } }
   .services-area.desk {
     display: block; }
     @media only screen and (max-width: 767px) {
@@ -1857,7 +1896,7 @@ a.btn-trans-card {
   .services-area .nl-content {
     position: relative;
     z-index: 1;
-    width: 80%; }
+    width: 100%; }
     @media only screen and (max-width: 767px) {
       .services-area .nl-content {
         width: 100%; } }
@@ -1888,6 +1927,16 @@ a.btn-trans-card {
         .services-area .nl-content h3 {
           font-size: 15px;
           margin-bottom: 1rem; } }
+    .services-area .nl-content h4 {
+      font-size: 19px;
+      font-weight: 600;
+      color: #844A83;
+      margin-top: 2rem;
+      margin-bottom: 0; }
+      @media only screen and (max-width: 767px) {
+        .services-area .nl-content h4 {
+          font-size: 15px;
+          margin-bottom: 1rem; } }
     .services-area .nl-content p {
       margin-bottom: 0;
       line-height: 2;
@@ -1898,6 +1947,110 @@ a.btn-trans-card {
         .services-area .nl-content p {
           font-size: 14px;
           margin-right: 0;
+          line-height: 1.5; } }
+    @media only screen and (max-width: 767px) {
+      .services-area .nl-content .our-link {
+        margin-left: 0; } }
+    .services-area .nl-content .our-link i {
+      color: #844A83;
+      font-size: 1rem;
+      font-weight: 800;
+      line-height: 2;
+      margin-right: 0.5rem; }
+      @media only screen and (max-width: 767px) {
+        .services-area .nl-content .our-link i {
+          line-height: 1.5; } }
+    .services-area .nl-content .our-link li {
+      position: relative;
+      z-index: 1;
+      font-size: 16px;
+      color: #5D5C60;
+      font-weight: 400;
+      line-height: 2; }
+      @media only screen and (max-width: 767px) {
+        .services-area .nl-content .our-link li {
+          width: auto;
+          font-size: 14px;
+          font-weight: 600;
+          line-height: 1.5; } }
+  .services-area .nl-content-cp {
+    position: relative;
+    z-index: 1;
+    width: 100%; }
+    @media only screen and (max-width: 767px) {
+      .services-area .nl-content-cp {
+        width: 100%; } }
+    .services-area .nl-content-cp h2 {
+      font-size: 75px;
+      display: block;
+      font-weight: 400;
+      color: #844A83;
+      margin-bottom: 2%; }
+      .services-area .nl-content-cp h2 span {
+        color: #844A83; }
+      @media only screen and (max-width: 767px) {
+        .services-area .nl-content-cp h2 {
+          font-size: 40px;
+          margin-bottom: 1rem; } }
+    .services-area .nl-content-cp h3 {
+      font-size: 28px;
+      display: block;
+      font-weight: 400;
+      margin-bottom: 0;
+      color: #5D5C60;
+      margin-bottom: 2%; }
+      .services-area .nl-content-cp h3 span {
+        color: #844A83;
+        font-weight: 600; }
+      @media only screen and (max-width: 767px) {
+        .services-area .nl-content-cp h3 {
+          font-size: 15px;
+          margin-bottom: 1rem; } }
+    .services-area .nl-content-cp h4 {
+      font-size: 19px;
+      font-weight: 600;
+      color: #844A83;
+      margin-top: 2rem;
+      margin-bottom: 0; }
+      @media only screen and (max-width: 767px) {
+        .services-area .nl-content-cp h4 {
+          font-size: 15px;
+          margin-bottom: 1rem; } }
+    .services-area .nl-content-cp p {
+      margin-bottom: 0;
+      line-height: 2;
+      padding-top: 1%;
+      font-size: 16px;
+      margin-right: 2rem; }
+      @media only screen and (max-width: 767px) {
+        .services-area .nl-content-cp p {
+          font-size: 14px;
+          margin-right: 0;
+          line-height: 1.5; } }
+    @media only screen and (max-width: 767px) {
+      .services-area .nl-content-cp .our-link {
+        margin-left: 0; } }
+    .services-area .nl-content-cp .our-link i {
+      color: #844A83;
+      font-size: 1rem;
+      font-weight: 800;
+      line-height: 2;
+      margin-right: 0.5rem; }
+      @media only screen and (max-width: 767px) {
+        .services-area .nl-content-cp .our-link i {
+          line-height: 1.5; } }
+    .services-area .nl-content-cp .our-link li {
+      position: relative;
+      z-index: 1;
+      font-size: 16px;
+      color: #5D5C60;
+      font-weight: 400;
+      line-height: 2; }
+      @media only screen and (max-width: 767px) {
+        .services-area .nl-content-cp .our-link li {
+          width: auto;
+          font-size: 14px;
+          font-weight: 600;
           line-height: 1.5; } }
   .services-area .content-text {
     text-align: right;
@@ -1913,109 +2066,6 @@ a.btn-trans-card {
       .services-area .content-text {
         text-align: left;
         margin: 0; } }
-  .services-area .contenedor {
-    width: 100%;
-    height: 35%;
-    overflow: hidden;
-    margin: 2rem 0;
-    margin-bottom: 30px;
-    padding: 0; }
-    .services-area .contenedor:hover .img {
-      height: 103%; }
-    .services-area .contenedor.c1 {
-      height: 38%; }
-    .services-area .contenedor.c2 {
-      height: 33%; }
-    .services-area .contenedor.c3 {
-      height: 35%; }
-    .services-area .contenedor.c4 {
-      height: 31%; }
-    .services-area .contenedor.c5 {
-      height: 30%; }
-    .services-area .contenedor.c6 {
-      height: 32%; }
-    .services-area .contenedor.c1-m {
-      height: 85%;
-      margin: 2rem 0; }
-    .services-area .contenedor.c2-m {
-      height: 85%;
-      margin: 2rem 0; }
-    .services-area .contenedor.c3-m {
-      height: 85%;
-      margin: 2rem 0; }
-    .services-area .contenedor.c4-m {
-      height: 85%;
-      margin: 2rem 0; }
-    .services-area .contenedor.c5-m {
-      height: 85%;
-      margin: 2rem 0; }
-    .services-area .contenedor.c6-m {
-      height: 85%;
-      margin: 2rem 0; }
-    .services-area .contenedor .position {
-      color: #fff; }
-    .services-area .contenedor .img {
-      background-size: cover;
-      background-position: center center;
-      -webkit-transition: all .9s ease;
-      -moz-transition: all .9s ease;
-      -o-transition: all .9s ease;
-      -ms-transition: all .9s ease;
-      height: 100%;
-      width: 100%; }
-      .services-area .contenedor .img.f1 {
-        background-image: url("./img/bg-img/1-img-a.jpg"); }
-        @media only screen and (max-width: 767px) {
-          .services-area .contenedor .img.f1 {
-            background-position-x: 0; }
-            .services-area .contenedor .img.f1 .numero-outline {
-              margin-top: 7rem;
-              margin-left: 3.5rem; } }
-      .services-area .contenedor .img.f2 {
-        background-image: url("./img/bg-img/2-img-a.jpg");
-        background-position-x: -10rem; }
-        @media only screen and (max-width: 767px) {
-          .services-area .contenedor .img.f2 {
-            background-position-x: 0; }
-            .services-area .contenedor .img.f2 .numero-outline {
-              margin-top: 8.5rem;
-              margin-left: 2.5rem; } }
-      .services-area .contenedor .img.f3 {
-        background-image: url("./img/bg-img/3-img-a.jpg");
-        background-position-x: -14rem; }
-        @media only screen and (max-width: 767px) {
-          .services-area .contenedor .img.f3 {
-            background-position-x: -2rem; }
-            .services-area .contenedor .img.f3 .numero-outline {
-              margin-top: 8.5rem;
-              margin-left: 2.5rem; } }
-      .services-area .contenedor .img.f4 {
-        background-image: url("./img/bg-img/4-img-a.jpg");
-        background-position-x: -15rem; }
-        @media only screen and (max-width: 767px) {
-          .services-area .contenedor .img.f4 {
-            background-position-x: -1rem; }
-            .services-area .contenedor .img.f4 .numero-outline {
-              margin-top: 8.5rem;
-              margin-left: 2rem; } }
-      .services-area .contenedor .img.f5 {
-        background-image: url("./img/bg-img/5-img-a.jpg");
-        background-position-x: -13rem; }
-        @media only screen and (max-width: 767px) {
-          .services-area .contenedor .img.f5 {
-            background-position-x: 0; }
-            .services-area .contenedor .img.f5 .numero-outline {
-              margin-top: 8.5rem;
-              margin-left: 2.5rem; } }
-      .services-area .contenedor .img.f6 {
-        background-image: url("./img/bg-img/6-img-a.jpg");
-        background-position-x: -20rem; }
-        @media only screen and (max-width: 767px) {
-          .services-area .contenedor .img.f6 {
-            background-position-x: 0; }
-            .services-area .contenedor .img.f6 .numero-outline {
-              margin-top: 8.5rem;
-              margin-left: 2.5rem; } }
   .services-area .card {
     border: none;
     z-index: 2;
@@ -3010,8 +3060,9 @@ a.btn-trans-card {
         color: #844A83; }
       @media only screen and (max-width: 767px) {
         .landing-area .nl-content h2 {
-          font-size: 40px;
-          width: 110%; } }
+          font-size: 30px;
+          width: 110%;
+          margin-bottom: 1rem; } }
     .landing-area .nl-content h3 {
       font-size: 21px;
       display: block;
@@ -3028,7 +3079,7 @@ a.btn-trans-card {
         color: #844A83; }
       @media only screen and (max-width: 767px) {
         .landing-area .nl-content h3 {
-          font-size: 18px;
+          font-size: 16px;
           margin-bottom: 1.5rem;
           margin-right: 0; } }
     .landing-area .nl-content p {
@@ -4568,7 +4619,7 @@ textarea.form-control {
           .header-area .main-header-area2 .classy-nav-container .classy-navbar .classynav ul li a.mega-item {
             color: #844A83; }
             .header-area .main-header-area2 .classy-nav-container .classy-navbar .classynav ul li a.mega-item.a-bl::after {
-              margin-bottom: -1.8rem; }
+              margin-bottom: -1.75rem; }
             .header-area .main-header-area2 .classy-nav-container .classy-navbar .classynav ul li a.mega-item::after {
               content: '';
               position: absolute;
@@ -4887,8 +4938,9 @@ textarea.form-control {
     @media only screen and (max-width: 767px) {
       .welcome-text h2 {
         line-height: 1.2;
-        font-size: 34px;
-        font-weight: 400; } }
+        font-size: 38px;
+        font-weight: 400;
+        margin-bottom: 0; } }
     .welcome-text h2 span {
       color: #844A83; }
   .welcome-text img {
@@ -4898,7 +4950,9 @@ textarea.form-control {
     margin-left: 31rem; }
     @media only screen and (max-width: 767px) {
       .welcome-text img {
-        width: 60px; } }
+        width: 45px;
+        margin-top: -3.5rem;
+        margin-left: 15rem; } }
   .welcome-text h5 {
     font-size: 22px;
     color: A868AA;
@@ -5087,7 +5141,9 @@ textarea.form-control {
     background-size: 300%; }
     @media only screen and (max-width: 767px) {
       .single-portfolio-slide.img1 {
-        background-position-x: 0; } }
+        background-position-x: -6rem;
+        background-position-y: -4rem;
+        background-size: 200%; } }
   .single-portfolio-slide.img2 {
     background-image: url("./img/bg-img/2-img.jpg");
     background-position-x: -30em;
@@ -5095,7 +5151,9 @@ textarea.form-control {
     background-size: 270%; }
     @media only screen and (max-width: 767px) {
       .single-portfolio-slide.img2 {
-        background-position-x: 0; } }
+        background-position-x: -12rem;
+        background-position-y: -1rem;
+        background-size: 200%; } }
   .single-portfolio-slide.img3 {
     background-image: url("./img/bg-img/3-img.jpg");
     background-position-x: -7rem; }
@@ -5107,7 +5165,8 @@ textarea.form-control {
     background-position-x: -21rem; }
     @media only screen and (max-width: 767px) {
       .single-portfolio-slide.img4 {
-        background-position-x: 0; } }
+        background-position-x: 0;
+        background-position-y: 0; } }
   .single-portfolio-slide img {
     position: relative;
     z-index: 1;
@@ -5800,7 +5859,7 @@ textarea.form-control {
         background-position-y: 0; } }
   .sec-footer-area.error-404 {
     padding: 14rem 0;
-    margin-top: 0; }
+    margin-top: -10rem; }
     @media only screen and (max-width: 767px) {
       .sec-footer-area.error-404 {
         padding: 8rem 0;
@@ -5811,7 +5870,7 @@ textarea.form-control {
       background-position-x: -8rem;
       width: 150%;
       max-width: 200%;
-      background-position-y: 0; } }
+      background-position-y: -2rem; } }
   .sec-footer-area .border-line {
     width: 100%;
     height: 1px;
@@ -5863,7 +5922,8 @@ textarea.form-control {
       .sec-footer-area .nl-content-foo {
         margin-bottom: 5rem;
         margin-top: -2rem;
-        width: 66%; } }
+        width: 66%;
+        text-align: center; } }
     .sec-footer-area .nl-content-foo h2 {
       font-size: 55px;
       display: block;
@@ -6149,7 +6209,7 @@ textarea.form-control {
     padding: 1rem 0 5rem 0; }
   @media only screen and (max-width: 767px) {
     .food-area {
-      padding: 4rem 0 0 0; } }
+      padding: 8rem 0 0 0; } }
   .food-area .container {
     padding: 0; }
     .food-area .container .sec-1 {
@@ -6163,9 +6223,9 @@ textarea.form-control {
     margin-right: -5rem; }
     @media only screen and (max-width: 767px) {
       .food-area .img-lateral {
-        width: 40%;
-        margin-top: -15rem;
-        margin-right: -5rem; } }
+        width: 50%;
+        margin-top: -12rem;
+        margin-right: -2rem; } }
   .food-area .img-lateral-2 {
     width: 20%;
     position: absolute;
@@ -6175,9 +6235,9 @@ textarea.form-control {
     margin-right: 22rem; }
     @media only screen and (max-width: 767px) {
       .food-area .img-lateral-2 {
-        width: 20%;
-        margin-top: 1rem;
-        margin-right: 22rem; } }
+        width: 25%;
+        margin-top: -2rem;
+        margin-right: 5rem; } }
   .food-area .border-line {
     width: 100%;
     height: 1px;
@@ -6258,9 +6318,10 @@ textarea.form-control {
             margin-bottom: 0; } }
       @media only screen and (max-width: 767px) {
         .food-area .nl-content h2 {
-          font-size: 21px;
+          font-size: 25px;
           line-height: 1.2;
-          font-weight: 500; } }
+          font-weight: 500;
+          width: 70%; } }
     .food-area .nl-content p {
       margin-bottom: 2rem;
       margin-top: 1rem;

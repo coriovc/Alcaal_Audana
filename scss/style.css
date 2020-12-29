@@ -101,7 +101,7 @@ ul {
   top: 0;
   width: 30px;
   height: 30px;
-  background-color: #F44F5B;
+  background-color: #844A83;
   text-align: center;
   right: 0;
   padding-right: 0;
@@ -235,7 +235,7 @@ input:focus {
   display: inline-block;
   position: relative;
   vertical-align: middle;
-  background: #F44F5B; }
+  background: #844A83; }
 
 .cssload-loader,
 .cssload-loader:after,
@@ -304,7 +304,7 @@ input:focus {
   line-height: 35px;
   right: 40px;
   width: 40px;
-  background-color: #F44F5B;
+  background-color: #844A83;
   color: #ffffff;
   text-align: center;
   height: 40px;
@@ -315,7 +315,7 @@ input:focus {
   -webkit-box-shadow: 0 6px 50px 8px rgba(0, 0, 0, 0.1);
   box-shadow: 0 6px 50px 8px rgba(0, 0, 0, 0.1); }
   #scrollUp:hover {
-    background-color: #F27281;
+    background-color: A868AA;
     color: #ffffff; }
   @media only screen and (max-width: 767px) {
     #scrollUp {
@@ -335,7 +335,7 @@ input:focus {
   padding: 0 30px;
   text-align: center;
   text-transform: capitalize;
-  color: #F44F5B;
+  color: #844A83;
   border: none;
   border-radius: 50px;
   background-color: #ffffff;
@@ -343,10 +343,10 @@ input:focus {
   -o-transition-duration: 1s;
   transition-duration: 1s; }
   .uza-btn:focus, .uza-btn:hover {
-    background-color: #F44F5B;
+    background-color: #844A83;
     color: #ffffff; }
   .uza-btn.btn-2 {
-    background-color: #F44F5B;
+    background-color: #844A83;
     color: #ffffff;
     min-width: 130px;
     height: 40px;
@@ -355,10 +355,10 @@ input:focus {
     -o-transition-duration: 1s;
     transition-duration: 1s; }
     .uza-btn.btn-2:focus, .uza-btn.btn-2:hover {
-      background-color: #F27281;
+      background-color: A868AA;
       color: #ffffff; }
   .uza-btn.btn-3 {
-    border: 2px solid #F44F5B;
+    border: 2px solid #844A83;
     line-height: 46px; }
   .uza-btn.btn-4 {
     border: 1px solid #ffffff;
@@ -380,9 +380,9 @@ input:focus {
         padding: 0 10px; } }
     .uza-btn.btn-4:hover {
       background-color: #ffffff;
-      color: #F44F5B; }
+      color: #844A83; }
   .uza-btn.btn-5 {
-    background-color: #F44F5B;
+    background-color: #844A83;
     color: #ffffff;
     min-width: 150px;
     height: 50px;
@@ -390,7 +390,7 @@ input:focus {
     line-height: 2.3;
     font-size: 20px; }
     .uza-btn.btn-5:focus, .uza-btn.btn-5:hover {
-      background-color: #F27281;
+      background-color: A868AA;
       color: #ffffff; }
   .uza-btn.btn-lang {
     min-width: 70px;
@@ -406,8 +406,8 @@ input:focus {
     background-color: transparent; }
     @media only screen and (max-width: 767px) {
       .uza-btn.btn-lang {
-        border-color: #F44F5B;
-        color: #F44F5B;
+        border-color: #844A83;
+        color: #844A83;
         min-width: 100px;
         height: 50px;
         font-size: 20px;
@@ -423,26 +423,26 @@ input:focus {
           color: #ffffff; } }
     .uza-btn.btn-lang:focus, .uza-btn.btn-lang:hover {
       background-color: #ffffff;
-      color: #F44F5B; }
+      color: #844A83; }
   .uza-btn.btn-outline-primary {
     min-width: 80px;
     height: 40px;
-    border: 1px solid #F44F5B;
+    border: 1px solid #844A83;
     line-height: 2.2;
     padding: 0 20px;
     margin-top: 1rem;
     font-size: 17px;
     font-weight: 500;
-    color: #F44F5B;
+    color: #844A83;
     border-radius: 25px;
     background-color: transparent; }
     @media only screen and (max-width: 767px) {
       .uza-btn.btn-outline-primary {
-        border-color: #F44F5B;
-        color: #F44F5B;
+        border-color: #844A83;
+        color: #844A83;
         min-width: 100px; } }
     .uza-btn.btn-outline-primary:hover {
-      background-color: #F44F5B;
+      background-color: #844A83;
       color: #ffffff;
       border-color: transparent; }
   .uza-btn.btn-bold {
@@ -451,13 +451,13 @@ input:focus {
 
 a.btn-trans-card {
   background-color: transparent;
-  color: #F44F5B;
+  color: #844A83;
   line-height: 2.5;
   font-size: 20px;
   padding: .375rem 0;
   font-weight: 400; }
   a.btn-trans-card:focus, a.btn-trans-card:hover {
-    color: #F27281;
+    color: A868AA;
     font-size: 20px;
     font-weight: 400; }
 
@@ -483,7 +483,7 @@ a.btn-trans-card {
       display: block;
       font-weight: 400;
       margin-bottom: 1rem;
-      color: #F44F5B; }
+      color: #844A83; }
       @media only screen and (max-width: 767px) {
         .group-companies-area .a-content h2 {
           font-size: 45px; } }
@@ -541,7 +541,7 @@ a.btn-trans-card {
       position: absolute;
       margin: -0.6rem 0 0 0;
       height: 3px;
-      background-color: #F44F5B;
+      background-color: #844A83;
       width: 55px;
       border-radius: 20%; }
     .NV-area .NV-content h2 {
@@ -551,7 +551,7 @@ a.btn-trans-card {
       margin-bottom: 1rem;
       color: #5D5C60; }
       .NV-area .NV-content h2 span {
-        color: #F44F5B; }
+        color: #844A83; }
       @media only screen and (max-width: 767px) {
         .NV-area .NV-content h2 {
           font-size: 25px; } }
@@ -585,7 +585,7 @@ a.btn-trans-card {
         .NV-area .NV-content a {
           width: auto; } }
     .NV-area .NV-content a:hover {
-      color: #F44F5B; }
+      color: #844A83; }
     .NV-area .NV-content .content {
       padding: 2rem 0 2rem 4rem; }
       @media only screen and (max-width: 767px) {
@@ -605,7 +605,7 @@ a.btn-trans-card {
           .NV-area .NV-content .content .our-link li {
             width: auto; } }
         .NV-area .NV-content .content .our-link li i {
-          color: #F44F5B;
+          color: #844A83;
           font-size: 1rem;
           font-weight: 800;
           margin-right: 0.5rem; }
@@ -622,13 +622,13 @@ a.btn-trans-card {
   .about-us-content h2 {
     margin-bottom: 15px;
     line-height: 1.2;
-    color: #3d4f4e;
+    color: #844A83;
     font-size: 58px;
     font-weight: 400; }
     @media only screen and (max-width: 767px) {
       .about-us-content h2 {
         font-size: 40px;
-        color: #F44F5B; } }
+        color: #844A83; } }
   .about-us-content h3 {
     margin-bottom: 15px;
     line-height: 1;
@@ -645,11 +645,23 @@ a.btn-trans-card {
 .about-us-area {
   position: relative;
   z-index: 1;
-  padding: 6rem 0; }
+  padding: 6rem 0;
+  padding-bottom: 0; }
   .about-us-area .container {
     max-width: 95%; }
   @media only screen and (max-width: 767px) {
     .about-us-area {
+      padding: 3% 5%;
+      padding-bottom: 0; } }
+
+.about-landing-area {
+  position: relative;
+  z-index: 1;
+  padding: 6rem 0; }
+  .about-landing-area .container {
+    max-width: 95%; }
+  @media only screen and (max-width: 767px) {
+    .about-landing-area {
       padding: 3% 5%;
       padding-bottom: 0; } }
 
@@ -662,9 +674,9 @@ a.btn-trans-card {
   z-index: 1;
   padding: 3% 11%; }
   .about-area.padd-about {
-    padding: 2rem 3rem;
-    padding-left: 12rem;
-    margin-bottom: 7rem;
+    padding: 10rem 3rem;
+    padding-left: 8rem;
+    margin-bottom: 4rem;
     padding-bottom: 0; }
     @media only screen and (max-width: 767px) {
       .about-area.padd-about {
@@ -712,15 +724,16 @@ a.btn-trans-card {
         margin-bottom: 0;
         padding-bottom: 4rem; } }
   .about-area .img-lateral-about {
-    width: 50%;
+    max-width: 200%;
+    width: 150%;
     position: absolute;
     z-index: 2;
-    margin-top: -4rem;
+    margin-top: -12rem;
     right: 0;
-    margin-right: -15rem; }
+    margin-right: -34rem; }
     @media only screen and (max-width: 767px) {
       .about-area .img-lateral-about {
-        width: 70%;
+        width: 100%;
         margin-top: -7rem;
         margin-right: -3.5rem; } }
   .about-area .img-lateral-Food {
@@ -782,7 +795,7 @@ a.btn-trans-card {
       .about-area .card .card-header h5 {
         font-size: 28px;
         font-weight: 600;
-        color: #F44F5B; }
+        color: #844A83; }
         .about-area .card .card-header h5 img {
           margin-right: 1rem;
           width: 30px;
@@ -819,7 +832,7 @@ a.btn-trans-card {
         line-height: 1.5;
         padding-top: 1.5rem;
         font-size: 19px;
-        color: #F44F5B; }
+        color: #844A83; }
         @media only screen and (max-width: 767px) {
           .about-area .card .card-body h2 {
             font-size: 19px; } }
@@ -831,14 +844,14 @@ a.btn-trans-card {
         margin-right: 1rem;
         font-weight: 400; }
         .about-area .card .card-body h3 span {
-          color: #F44F5B; }
+          color: #844A83; }
         @media only screen and (max-width: 767px) {
           .about-area .card .card-body h3 {
             font-size: 14px;
             margin-right: 0;
             line-height: 1.5; } }
       .about-area .card .card-body .our-link i {
-        color: #F44F5B;
+        color: #844A83;
         font-size: 15px;
         line-height: 1.8;
         margin-right: 0.6rem;
@@ -855,7 +868,7 @@ a.btn-trans-card {
         .about-area .card .card-body {
           margin-left: 0; }
           .about-area .card .card-body .our-link i {
-            color: #F44F5B;
+            color: #844A83;
             font-size: 15px;
             line-height: 1.8;
             margin-right: 0.6rem;
@@ -879,30 +892,25 @@ a.btn-trans-card {
         margin-top: 0; } }
     .about-area .nl-content h2 {
       font-size: 75px;
-      width: 50%;
       line-height: 1;
       font-weight: 400;
       margin-bottom: 0;
-      color: #F44F5B;
-      margin-bottom: 2%; }
+      color: #844A83;
+      margin-bottom: 2.5rem; }
       .about-area .nl-content h2 span {
-        color: #F44F5B; }
+        color: #844A83; }
       @media only screen and (max-width: 767px) {
         .about-area .nl-content h2 {
           font-size: 40px;
-          margin-bottom: 1rem;
-          width: 100%; }
-          .about-area .nl-content h2.a {
-            width: 70%; } }
+          margin-bottom: 1rem; } }
     .about-area .nl-content h3 {
-      font-size: 24px;
-      display: block;
+      font-size: 28px;
+      line-height: 1.5;
       width: 80%;
       font-weight: 400;
       margin-bottom: 0;
       color: #5D5C60;
-      margin-bottom: 1rem;
-      margin-right: 9rem; }
+      margin-bottom: 1rem; }
       .about-area .nl-content h3.a {
         margin-right: 0; }
         @media only screen and (max-width: 767px) {
@@ -925,13 +933,12 @@ a.btn-trans-card {
       line-height: 1.5;
       padding-top: 1%;
       font-size: 16px;
-      width: 60%; }
+      width: 108%; }
       @media only screen and (max-width: 767px) {
         .about-area .nl-content p {
           font-size: 14px;
           margin-right: 0;
-          line-height: 1.5;
-          width: 80%; } }
+          line-height: 1.5; } }
       .about-area .nl-content p.margmov {
         margin-bottom: 1rem; }
     .about-area .nl-content .our-link {
@@ -940,7 +947,7 @@ a.btn-trans-card {
         .about-area .nl-content .our-link {
           margin-left: 0; } }
       .about-area .nl-content .our-link i {
-        color: #F44F5B;
+        color: #844A83;
         font-size: 1rem;
         font-weight: 800;
         line-height: 2;
@@ -1023,7 +1030,7 @@ a.btn-trans-card {
         .about-area .nl-content-head .our-link {
           margin-left: 2rem; } }
       .about-area .nl-content-head .our-link i {
-        color: #F44F5B;
+        color: #844A83;
         font-size: 1rem;
         font-weight: 800;
         line-height: 2;
@@ -1066,9 +1073,9 @@ a.btn-trans-card {
       display: block;
       font-weight: 400;
       margin-bottom: 2rem;
-      color: #F44F5B; }
+      color: #844A83; }
       .about-area .nl-content-sg h2 span {
-        color: #F44F5B; }
+        color: #844A83; }
       @media only screen and (max-width: 767px) {
         .about-area .nl-content-sg h2 {
           font-size: 40px;
@@ -1091,7 +1098,7 @@ a.btn-trans-card {
       font-size: 19px;
       font-weight: 600;
       margin-bottom: 0;
-      color: #F44F5B; }
+      color: #844A83; }
       @media only screen and (max-width: 767px) {
         .about-area .nl-content-sg h4 {
           font-size: 18px;
@@ -1121,7 +1128,7 @@ a.btn-trans-card {
     .about-area .nl-content-sg .our-link {
       margin-left: 2rem; }
       .about-area .nl-content-sg .our-link i {
-        color: #F44F5B;
+        color: #844A83;
         font-size: 1rem;
         font-weight: 800;
         margin-right: 0.5rem; }
@@ -1129,7 +1136,7 @@ a.btn-trans-card {
         position: relative;
         z-index: 1;
         font-size: 15px;
-        color: #F44F5B;
+        color: #844A83;
         font-weight: 800;
         line-height: 2; }
         @media only screen and (max-width: 767px) {
@@ -1139,10 +1146,62 @@ a.btn-trans-card {
             font-weight: 600;
             line-height: 1.2; } }
         .about-area .nl-content-sg .our-link li i {
-          color: #F44F5B;
+          color: #844A83;
           font-size: 1rem;
           font-weight: 800;
           margin-right: 0.5rem; }
+  .about-area .nl-content-ab {
+    position: relative;
+    z-index: 1;
+    width: 90%; }
+    .about-area .nl-content-ab.m15 {
+      margin-left: 12rem; }
+    @media only screen and (max-width: 767px) {
+      .about-area .nl-content-ab {
+        width: 100%;
+        margin-top: 0; } }
+    .about-area .nl-content-ab h2 {
+      font-size: 75px;
+      width: 50%;
+      line-height: 1;
+      font-weight: 400;
+      margin-bottom: 0;
+      color: #844A83;
+      margin-bottom: 2%; }
+      .about-area .nl-content-ab h2 span {
+        color: #844A83; }
+      @media only screen and (max-width: 767px) {
+        .about-area .nl-content-ab h2 {
+          font-size: 40px;
+          margin-bottom: 1rem;
+          width: 100%; } }
+    .about-area .nl-content-ab h3 {
+      font-size: 19px;
+      font-weight: 600;
+      margin-bottom: 0;
+      color: #844A83;
+      margin-bottom: 0.4rem;
+      margin-top: 2rem; }
+      @media only screen and (max-width: 767px) {
+        .about-area .nl-content-ab h3.a {
+          font-size: 18px;
+          margin-bottom: 0.5rem;
+          font-weight: 500; } }
+      @media only screen and (max-width: 767px) {
+        .about-area .nl-content-ab h3 {
+          font-size: 25px;
+          margin-top: 1rem;
+          margin-bottom: 1rem;
+          margin-right: 0; } }
+    .about-area .nl-content-ab p {
+      line-height: 1.5;
+      padding-top: 1%;
+      font-size: 17px; }
+      @media only screen and (max-width: 767px) {
+        .about-area .nl-content-ab p {
+          font-size: 14px;
+          margin-right: 0;
+          line-height: 1.5; } }
   .about-area .nl-content-s {
     position: relative;
     z-index: 1;
@@ -1158,10 +1217,10 @@ a.btn-trans-card {
       display: block;
       font-weight: 400;
       margin-bottom: 0;
-      color: #F44F5B;
+      color: #844A83;
       margin-bottom: 2%; }
       .about-area .nl-content-s h2 span {
-        color: #F44F5B; }
+        color: #844A83; }
       @media only screen and (max-width: 767px) {
         .about-area .nl-content-s h2 {
           font-size: 40px;
@@ -1182,7 +1241,7 @@ a.btn-trans-card {
             margin-right: 0;
             width: 80%; } }
       .about-area .nl-content-s h3 span {
-        color: #F44F5B; }
+        color: #844A83; }
       @media only screen and (max-width: 767px) {
         .about-area .nl-content-s h3 {
           font-size: 18px;
@@ -1213,7 +1272,7 @@ a.btn-trans-card {
     .about-area .nl-content-s .our-link {
       margin-left: 2rem; }
       .about-area .nl-content-s .our-link i {
-        color: #F44F5B;
+        color: #844A83;
         font-size: 1rem;
         font-weight: 800;
         margin-right: 0.5rem; }
@@ -1221,7 +1280,7 @@ a.btn-trans-card {
         position: relative;
         z-index: 1;
         font-size: 15px;
-        color: #F44F5B;
+        color: #844A83;
         font-weight: 800;
         line-height: 2; }
         @media only screen and (max-width: 767px) {
@@ -1231,7 +1290,7 @@ a.btn-trans-card {
             font-weight: 600;
             line-height: 1.2; } }
         .about-area .nl-content-s .our-link li i {
-          color: #F44F5B;
+          color: #844A83;
           font-size: 1rem;
           font-weight: 800;
           margin-right: 0.5rem; }
@@ -1303,7 +1362,7 @@ a.btn-trans-card {
       .company-area .card .card-header h5 {
         font-size: 28px;
         font-weight: 600;
-        color: #F44F5B; }
+        color: #844A83; }
         .company-area .card .card-header h5 img {
           margin-right: 1rem;
           width: 30px;
@@ -1340,7 +1399,7 @@ a.btn-trans-card {
         line-height: 1.5;
         padding-top: 1.5rem;
         font-size: 19px;
-        color: #F44F5B; }
+        color: #844A83; }
         @media only screen and (max-width: 767px) {
           .company-area .card .card-body h2 {
             font-size: 19px; } }
@@ -1350,7 +1409,7 @@ a.btn-trans-card {
         padding-top: 1%;
         font-size: 18px;
         margin-right: 1rem;
-        color: #F44F5B;
+        color: #844A83;
         font-weight: 400; }
         @media only screen and (max-width: 767px) {
           .company-area .card .card-body h3 {
@@ -1358,7 +1417,7 @@ a.btn-trans-card {
             margin-right: 0;
             line-height: 1.5; } }
       .company-area .card .card-body .our-link i {
-        color: #F44F5B;
+        color: #844A83;
         font-size: 15px;
         line-height: 1.8;
         margin-right: 0.6rem;
@@ -1375,7 +1434,7 @@ a.btn-trans-card {
         .company-area .card .card-body {
           margin-left: 0; }
           .company-area .card .card-body .our-link i {
-            color: #F44F5B;
+            color: #844A83;
             font-size: 15px;
             line-height: 1.8;
             margin-right: 0.6rem;
@@ -1419,10 +1478,10 @@ a.btn-trans-card {
       line-height: 1;
       font-weight: 400;
       margin-bottom: 0;
-      color: #F44F5B;
+      color: #844A83;
       margin-bottom: 2%; }
       .company-area .nl-content h2 span {
-        color: #F44F5B; }
+        color: #844A83; }
       @media only screen and (max-width: 767px) {
         .company-area .nl-content h2 {
           font-size: 40px;
@@ -1433,7 +1492,7 @@ a.btn-trans-card {
       display: block;
       font-weight: 400;
       margin-bottom: 0;
-      color: #F44F5B;
+      color: #844A83;
       margin-bottom: 1rem;
       margin-top: 2rem; }
       @media only screen and (max-width: 767px) {
@@ -1523,12 +1582,12 @@ a.btn-trans-card {
         position: absolute;
         margin: -0.5rem 0 0 0;
         height: 3px;
-        background-color: #F44F5B;
+        background-color: #844A83;
         width: 45px;
         border-radius: 20%; }
       .item-team .card .card-footer a {
         display: inline-block;
-        color: #F44F5B;
+        color: #844A83;
         font-size: 23px;
         width: 45px;
         height: 45px;
@@ -1581,7 +1640,7 @@ a.btn-trans-card {
         padding: 30px; } }
     .single-team-slide .overlay-effect h6 {
       font-size: 14px;
-      color: #F44F5B;
+      color: #844A83;
       margin-bottom: 5px;
       text-transform: uppercase; }
     .single-team-slide .overlay-effect h4 {
@@ -1618,7 +1677,7 @@ a.btn-trans-card {
       display: inline-block;
       color: #ffffff;
       margin-right: 5px;
-      background-color: #F44F5B;
+      background-color: #844A83;
       width: 40px;
       height: 40px;
       border-radius: 20px;
@@ -1689,7 +1748,7 @@ a.btn-trans-card {
         max-width: 38px;
         width: 38px;
         border-radius: 15px;
-        background-color: #F44F5B; }
+        background-color: #844A83; }
 
 .team-area {
   position: relative;
@@ -1726,16 +1785,16 @@ a.btn-trans-card {
         padding-top: 40px;
         text-align: center; } }
     .about-text h2 span {
-      color: #F44F5B; }
+      color: #844A83; }
   .about-text.pri h2 {
-    color: #F44F5B; }
+    color: #844A83; }
   .about-text p {
     margin-bottom: 0;
     line-height: 1.5;
     padding-top: 1%;
     font-size: 26px; }
     .about-text p span {
-      color: #F44F5B;
+      color: #844A83;
       font-weight: 800; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .about-text p {
@@ -1754,17 +1813,30 @@ a.btn-trans-card {
   position: relative;
   z-index: 1;
   padding: 3% 11%; }
-  .services-area.padd-service {
-    padding: 10rem 1.5rem;
-    padding-left: 5rem;
-    margin-bottom: 1rem;
+  .services-area.img {
+    padding: 0; }
+  .services-area.padd-food {
+    padding: 10rem 3rem;
+    padding-left: 55%;
+    margin-bottom: 0;
     padding-bottom: 0; }
     @media only screen and (max-width: 767px) {
-      .services-area.padd-service {
-        padding: 8rem 1.5rem;
-        overflow-x: hidden;
+      .services-area.padd-food {
+        padding: 13rem 3rem;
+        padding-left: 55%;
         margin-bottom: 0;
-        padding-bottom: 1rem; } }
+        padding-bottom: 0; } }
+  .services-area .img-lateral-Food {
+    width: 69%;
+    position: absolute;
+    z-index: 2;
+    left: 0;
+    margin-top: 4rem;
+    margin-left: -2rem; }
+    @media only screen and (max-width: 767px) {
+      .services-area .img-lateral-Food {
+        width: 100%;
+        margin-top: -4rem; } }
   .services-area.desk {
     display: block; }
     @media only screen and (max-width: 767px) {
@@ -1798,7 +1870,7 @@ a.btn-trans-card {
   .services-area .nl-content {
     position: relative;
     z-index: 1;
-    width: 80%; }
+    width: 100%; }
     @media only screen and (max-width: 767px) {
       .services-area .nl-content {
         width: 100%; } }
@@ -1807,10 +1879,10 @@ a.btn-trans-card {
       display: block;
       font-weight: 400;
       margin-bottom: 0;
-      color: #F44F5B;
+      color: #844A83;
       margin-bottom: 2%; }
       .services-area .nl-content h2 span {
-        color: #F44F5B; }
+        color: #844A83; }
       @media only screen and (max-width: 767px) {
         .services-area .nl-content h2 {
           font-size: 40px;
@@ -1823,7 +1895,7 @@ a.btn-trans-card {
       color: #5D5C60;
       margin-bottom: 2%; }
       .services-area .nl-content h3 span {
-        color: #F44F5B;
+        color: #844A83;
         font-weight: 600; }
       @media only screen and (max-width: 767px) {
         .services-area .nl-content h3 {
@@ -1840,6 +1912,101 @@ a.btn-trans-card {
           font-size: 14px;
           margin-right: 0;
           line-height: 1.5; } }
+    @media only screen and (max-width: 767px) {
+      .services-area .nl-content .our-link {
+        margin-left: 0; } }
+    .services-area .nl-content .our-link i {
+      color: #844A83;
+      font-size: 1rem;
+      font-weight: 800;
+      line-height: 2;
+      margin-right: 0.5rem; }
+      @media only screen and (max-width: 767px) {
+        .services-area .nl-content .our-link i {
+          line-height: 1.5; } }
+    .services-area .nl-content .our-link li {
+      position: relative;
+      z-index: 1;
+      font-size: 16px;
+      color: #5D5C60;
+      font-weight: 400;
+      line-height: 2; }
+      @media only screen and (max-width: 767px) {
+        .services-area .nl-content .our-link li {
+          width: auto;
+          font-size: 14px;
+          font-weight: 600;
+          line-height: 1.5; } }
+  .services-area .nl-content-cp {
+    position: relative;
+    z-index: 1;
+    width: 100%; }
+    @media only screen and (max-width: 767px) {
+      .services-area .nl-content-cp {
+        width: 100%; } }
+    .services-area .nl-content-cp h2 {
+      font-size: 75px;
+      display: block;
+      font-weight: 400;
+      margin-bottom: 0;
+      color: #844A83;
+      margin-bottom: 2%; }
+      .services-area .nl-content-cp h2 span {
+        color: #844A83; }
+      @media only screen and (max-width: 767px) {
+        .services-area .nl-content-cp h2 {
+          font-size: 40px;
+          margin-bottom: 1rem; } }
+    .services-area .nl-content-cp h3 {
+      font-size: 28px;
+      display: block;
+      font-weight: 400;
+      margin-bottom: 0;
+      color: #5D5C60;
+      margin-bottom: 2%; }
+      .services-area .nl-content-cp h3 span {
+        color: #844A83;
+        font-weight: 600; }
+      @media only screen and (max-width: 767px) {
+        .services-area .nl-content-cp h3 {
+          font-size: 15px;
+          margin-bottom: 1rem; } }
+    .services-area .nl-content-cp p {
+      margin-bottom: 0;
+      line-height: 2;
+      padding-top: 1%;
+      font-size: 16px;
+      margin-right: 8rem; }
+      @media only screen and (max-width: 767px) {
+        .services-area .nl-content-cp p {
+          font-size: 14px;
+          margin-right: 0;
+          line-height: 1.5; } }
+    @media only screen and (max-width: 767px) {
+      .services-area .nl-content-cp .our-link {
+        margin-left: 0; } }
+    .services-area .nl-content-cp .our-link i {
+      color: #844A83;
+      font-size: 1rem;
+      font-weight: 800;
+      line-height: 2;
+      margin-right: 0.5rem; }
+      @media only screen and (max-width: 767px) {
+        .services-area .nl-content-cp .our-link i {
+          line-height: 1.5; } }
+    .services-area .nl-content-cp .our-link li {
+      position: relative;
+      z-index: 1;
+      font-size: 16px;
+      color: #5D5C60;
+      font-weight: 400;
+      line-height: 2; }
+      @media only screen and (max-width: 767px) {
+        .services-area .nl-content-cp .our-link li {
+          width: auto;
+          font-size: 14px;
+          font-weight: 600;
+          line-height: 1.5; } }
   .services-area .content-text {
     text-align: right;
     margin: 4rem 3rem 4rem 2rem; }
@@ -1854,109 +2021,6 @@ a.btn-trans-card {
       .services-area .content-text {
         text-align: left;
         margin: 0; } }
-  .services-area .contenedor {
-    width: 100%;
-    height: 35%;
-    overflow: hidden;
-    margin: 2rem 0;
-    margin-bottom: 30px;
-    padding: 0; }
-    .services-area .contenedor:hover .img {
-      height: 103%; }
-    .services-area .contenedor.c1 {
-      height: 38%; }
-    .services-area .contenedor.c2 {
-      height: 33%; }
-    .services-area .contenedor.c3 {
-      height: 35%; }
-    .services-area .contenedor.c4 {
-      height: 31%; }
-    .services-area .contenedor.c5 {
-      height: 30%; }
-    .services-area .contenedor.c6 {
-      height: 32%; }
-    .services-area .contenedor.c1-m {
-      height: 85%;
-      margin: 2rem 0; }
-    .services-area .contenedor.c2-m {
-      height: 85%;
-      margin: 2rem 0; }
-    .services-area .contenedor.c3-m {
-      height: 85%;
-      margin: 2rem 0; }
-    .services-area .contenedor.c4-m {
-      height: 85%;
-      margin: 2rem 0; }
-    .services-area .contenedor.c5-m {
-      height: 85%;
-      margin: 2rem 0; }
-    .services-area .contenedor.c6-m {
-      height: 85%;
-      margin: 2rem 0; }
-    .services-area .contenedor .position {
-      color: #fff; }
-    .services-area .contenedor .img {
-      background-size: cover;
-      background-position: center center;
-      -webkit-transition: all .9s ease;
-      -moz-transition: all .9s ease;
-      -o-transition: all .9s ease;
-      -ms-transition: all .9s ease;
-      height: 100%;
-      width: 100%; }
-      .services-area .contenedor .img.f1 {
-        background-image: url("./img/bg-img/1-img-a.jpg"); }
-        @media only screen and (max-width: 767px) {
-          .services-area .contenedor .img.f1 {
-            background-position-x: 0; }
-            .services-area .contenedor .img.f1 .numero-outline {
-              margin-top: 7rem;
-              margin-left: 3.5rem; } }
-      .services-area .contenedor .img.f2 {
-        background-image: url("./img/bg-img/2-img-a.jpg");
-        background-position-x: -10rem; }
-        @media only screen and (max-width: 767px) {
-          .services-area .contenedor .img.f2 {
-            background-position-x: 0; }
-            .services-area .contenedor .img.f2 .numero-outline {
-              margin-top: 8.5rem;
-              margin-left: 2.5rem; } }
-      .services-area .contenedor .img.f3 {
-        background-image: url("./img/bg-img/3-img-a.jpg");
-        background-position-x: -14rem; }
-        @media only screen and (max-width: 767px) {
-          .services-area .contenedor .img.f3 {
-            background-position-x: -2rem; }
-            .services-area .contenedor .img.f3 .numero-outline {
-              margin-top: 8.5rem;
-              margin-left: 2.5rem; } }
-      .services-area .contenedor .img.f4 {
-        background-image: url("./img/bg-img/4-img-a.jpg");
-        background-position-x: -15rem; }
-        @media only screen and (max-width: 767px) {
-          .services-area .contenedor .img.f4 {
-            background-position-x: -1rem; }
-            .services-area .contenedor .img.f4 .numero-outline {
-              margin-top: 8.5rem;
-              margin-left: 2rem; } }
-      .services-area .contenedor .img.f5 {
-        background-image: url("./img/bg-img/5-img-a.jpg");
-        background-position-x: -13rem; }
-        @media only screen and (max-width: 767px) {
-          .services-area .contenedor .img.f5 {
-            background-position-x: 0; }
-            .services-area .contenedor .img.f5 .numero-outline {
-              margin-top: 8.5rem;
-              margin-left: 2.5rem; } }
-      .services-area .contenedor .img.f6 {
-        background-image: url("./img/bg-img/6-img-a.jpg");
-        background-position-x: -20rem; }
-        @media only screen and (max-width: 767px) {
-          .services-area .contenedor .img.f6 {
-            background-position-x: 0; }
-            .services-area .contenedor .img.f6 .numero-outline {
-              margin-top: 8.5rem;
-              margin-left: 2.5rem; } }
   .services-area .card {
     border: none;
     z-index: 2;
@@ -1992,7 +2056,7 @@ a.btn-trans-card {
         display: block;
         font-weight: 400;
         margin-bottom: 1rem;
-        color: #F44F5B; }
+        color: #844A83; }
         .services-area .card .card-body h2.small {
           font-size: 28px; }
           @media only screen and (max-width: 767px) {
@@ -2016,7 +2080,7 @@ a.btn-trans-card {
             font-size: 13px;
             line-height: 1.5; } }
       .services-area .card .card-body .our-link i {
-        color: #F44F5B;
+        color: #844A83;
         font-size: 16px;
         line-height: 1.2;
         margin-right: 0.3rem;
@@ -2034,7 +2098,7 @@ a.btn-trans-card {
             font-size: 9px;
             margin-bottom: 0; } }
         .services-area .card .card-body .our-link li.title {
-          color: #F44F5B;
+          color: #844A83;
           font-weight: 600;
           margin-left: -2rem; }
 
@@ -2108,7 +2172,7 @@ a.btn-trans-card {
         margin-bottom: 0;
         margin-top: -4rem; } }
   .serv-area.bg-fond {
-    background-color: #F44F5B; }
+    background-color: #844A83; }
   .serv-area .img-lateral-serv {
     width: 50%;
     position: absolute;
@@ -2180,7 +2244,7 @@ a.btn-trans-card {
       .serv-area .card .card-header h5 {
         font-size: 28px;
         font-weight: 600;
-        color: #F44F5B; }
+        color: #844A83; }
         .serv-area .card .card-header h5 img {
           margin-right: 1rem;
           width: 30px;
@@ -2217,7 +2281,7 @@ a.btn-trans-card {
         line-height: 1.5;
         padding-top: 1.5rem;
         font-size: 19px;
-        color: #F44F5B; }
+        color: #844A83; }
         @media only screen and (max-width: 767px) {
           .serv-area .card .card-body h2 {
             font-size: 19px; } }
@@ -2229,14 +2293,14 @@ a.btn-trans-card {
         margin-right: 1rem;
         font-weight: 400; }
         .serv-area .card .card-body h3 span {
-          color: #F44F5B; }
+          color: #844A83; }
         @media only screen and (max-width: 767px) {
           .serv-area .card .card-body h3 {
             font-size: 14px;
             margin-right: 0;
             line-height: 1.5; } }
       .serv-area .card .card-body .our-link i {
-        color: #F44F5B;
+        color: #844A83;
         font-size: 15px;
         line-height: 1.8;
         margin-right: 0.6rem;
@@ -2253,7 +2317,7 @@ a.btn-trans-card {
         .serv-area .card .card-body {
           margin-left: 0; }
           .serv-area .card .card-body .our-link i {
-            color: #F44F5B;
+            color: #844A83;
             font-size: 15px;
             line-height: 1.8;
             margin-right: 0.6rem;
@@ -2276,7 +2340,7 @@ a.btn-trans-card {
       font-size: 29px;
       font-weight: 400;
       margin-bottom: 0;
-      color: #F44F5B;
+      color: #844A83;
       margin-top: 3rem; }
       .serv-area .nl-content h2.no-m {
         margin-top: 0; }
@@ -2299,7 +2363,7 @@ a.btn-trans-card {
             margin-right: 0;
             width: 80%; } }
       .serv-area .nl-content h3 span {
-        color: #F44F5B; }
+        color: #844A83; }
       @media only screen and (max-width: 767px) {
         .serv-area .nl-content h3 {
           font-size: 18px;
@@ -2309,7 +2373,7 @@ a.btn-trans-card {
       font-size: 21px;
       font-weight: 400;
       margin-bottom: 0;
-      color: #F44F5B;
+      color: #844A83;
       margin-bottom: 1rem;
       margin-right: 9rem; }
       @media only screen and (max-width: 767px) {
@@ -2343,7 +2407,7 @@ a.btn-trans-card {
     .serv-area .nl-content .our-link {
       margin-left: 2rem; }
       .serv-area .nl-content .our-link i {
-        color: #F44F5B;
+        color: #844A83;
         font-size: 1rem;
         font-weight: 800;
         margin-right: 0.5rem; }
@@ -2351,7 +2415,7 @@ a.btn-trans-card {
         position: relative;
         z-index: 1;
         font-size: 15px;
-        color: #F44F5B;
+        color: #844A83;
         font-weight: 800;
         line-height: 2; }
         @media only screen and (max-width: 767px) {
@@ -2361,7 +2425,7 @@ a.btn-trans-card {
             font-weight: 600;
             line-height: 1.2; } }
         .serv-area .nl-content .our-link li i {
-          color: #F44F5B;
+          color: #844A83;
           font-size: 1rem;
           font-weight: 800;
           margin-right: 0.5rem; }
@@ -2382,11 +2446,11 @@ a.btn-trans-card {
       display: block;
       font-weight: 400;
       margin-bottom: 2rem;
-      color: #F44F5B; }
+      color: #844A83; }
       .serv-area .nl-content-ser h2.head {
         color: #ffffff; }
       .serv-area .nl-content-ser h2 span {
-        color: #F44F5B; }
+        color: #844A83; }
       @media only screen and (max-width: 767px) {
         .serv-area .nl-content-ser h2 {
           font-size: 40px;
@@ -2411,7 +2475,7 @@ a.btn-trans-card {
       font-size: 19px;
       font-weight: 600;
       margin-bottom: 0;
-      color: #F44F5B; }
+      color: #844A83; }
       @media only screen and (max-width: 767px) {
         .serv-area .nl-content-ser h4 {
           font-size: 18px;
@@ -2441,7 +2505,7 @@ a.btn-trans-card {
     .serv-area .nl-content-ser .our-link {
       margin-left: 2rem; }
       .serv-area .nl-content-ser .our-link i {
-        color: #F44F5B;
+        color: #844A83;
         font-size: 1rem;
         font-weight: 800;
         margin-right: 0.5rem; }
@@ -2449,7 +2513,7 @@ a.btn-trans-card {
         position: relative;
         z-index: 1;
         font-size: 15px;
-        color: #F44F5B;
+        color: #844A83;
         font-weight: 800;
         line-height: 2; }
         @media only screen and (max-width: 767px) {
@@ -2459,7 +2523,7 @@ a.btn-trans-card {
             font-weight: 600;
             line-height: 1.2; } }
         .serv-area .nl-content-ser .our-link li i {
-          color: #F44F5B;
+          color: #844A83;
           font-size: 1rem;
           font-weight: 800;
           margin-right: 0.5rem; }
@@ -2478,10 +2542,10 @@ a.btn-trans-card {
       display: block;
       font-weight: 400;
       margin-bottom: 0;
-      color: #F44F5B;
+      color: #844A83;
       margin-bottom: 2%; }
       .serv-area .nl-content-s h2 span {
-        color: #F44F5B; }
+        color: #844A83; }
       @media only screen and (max-width: 767px) {
         .serv-area .nl-content-s h2 {
           font-size: 40px;
@@ -2502,7 +2566,7 @@ a.btn-trans-card {
             margin-right: 0;
             width: 80%; } }
       .serv-area .nl-content-s h3 span {
-        color: #F44F5B; }
+        color: #844A83; }
       @media only screen and (max-width: 767px) {
         .serv-area .nl-content-s h3 {
           font-size: 18px;
@@ -2533,7 +2597,7 @@ a.btn-trans-card {
     .serv-area .nl-content-s .our-link {
       margin-left: 2rem; }
       .serv-area .nl-content-s .our-link i {
-        color: #F44F5B;
+        color: #844A83;
         font-size: 1rem;
         font-weight: 800;
         margin-right: 0.5rem; }
@@ -2541,7 +2605,7 @@ a.btn-trans-card {
         position: relative;
         z-index: 1;
         font-size: 15px;
-        color: #F44F5B;
+        color: #844A83;
         font-weight: 800;
         line-height: 2; }
         @media only screen and (max-width: 767px) {
@@ -2551,7 +2615,7 @@ a.btn-trans-card {
             font-weight: 600;
             line-height: 1.2; } }
         .serv-area .nl-content-s .our-link li i {
-          color: #F44F5B;
+          color: #844A83;
           font-size: 1rem;
           font-weight: 800;
           margin-right: 0.5rem; }
@@ -2623,7 +2687,7 @@ a.btn-trans-card {
         padding-top: 7rem;
         margin-bottom: 0; } }
     .locations-text h2 span {
-      color: #F44F5B; }
+      color: #844A83; }
   .locations-text p {
     margin-bottom: 0;
     line-height: 1.5;
@@ -2631,7 +2695,7 @@ a.btn-trans-card {
     font-size: 26px;
     color: #ffffff; }
     .locations-text p span {
-      color: #F44F5B;
+      color: #844A83;
       font-weight: 800; }
     @media only screen and (max-width: 767px) {
       .locations-text p {
@@ -2665,7 +2729,7 @@ a.btn-trans-card {
     font-size: 17px; }
     .loc-contact-form .form-control:focus {
       box-shadow: none;
-      border-color: #F44F5B; }
+      border-color: #844A83; }
   .loc-contact-form label {
     font-size: 12px;
     color: #5D5C60;
@@ -2759,7 +2823,7 @@ a.btn-trans-card {
   .contact-heading span.line {
     position: absolute;
     height: 3px;
-    background-color: #F44F5B;
+    background-color: #844A83;
     width: 40px;
     border-radius: 20%; }
   .contact-heading span.c {
@@ -2849,7 +2913,7 @@ a.btn-trans-card {
       .landing-area .card .card-header h5 {
         font-size: 28px;
         font-weight: 600;
-        color: #F44F5B; }
+        color: #844A83; }
         .landing-area .card .card-header h5 img {
           margin-right: 1rem;
           width: 30px;
@@ -2886,7 +2950,7 @@ a.btn-trans-card {
         line-height: 1.5;
         padding-top: 1.5rem;
         font-size: 19px;
-        color: #F44F5B; }
+        color: #844A83; }
         @media only screen and (max-width: 767px) {
           .landing-area .card .card-body h2 {
             font-size: 19px; } }
@@ -2898,14 +2962,14 @@ a.btn-trans-card {
         margin-right: 1rem;
         font-weight: 400; }
         .landing-area .card .card-body h3 span {
-          color: #F44F5B; }
+          color: #844A83; }
         @media only screen and (max-width: 767px) {
           .landing-area .card .card-body h3 {
             font-size: 14px;
             margin-right: 0;
             line-height: 1.5; } }
       .landing-area .card .card-body .our-link i {
-        color: #F44F5B;
+        color: #844A83;
         font-size: 15px;
         line-height: 1.8;
         margin-right: 0.6rem;
@@ -2922,7 +2986,7 @@ a.btn-trans-card {
         .landing-area .card .card-body {
           margin-left: 0; }
           .landing-area .card .card-body .our-link i {
-            color: #F44F5B;
+            color: #844A83;
             font-size: 15px;
             line-height: 1.8;
             margin-right: 0.6rem;
@@ -2942,19 +3006,19 @@ a.btn-trans-card {
         width: 100%;
         margin-top: 0; } }
     .landing-area .nl-content h2 {
-      font-size: 75px;
+      font-size: 55px;
       display: block;
       font-weight: 400;
       margin-bottom: 0;
-      color: #F44F5B; }
+      color: #844A83; }
       .landing-area .nl-content h2 span {
-        color: #F44F5B; }
+        color: #844A83; }
       @media only screen and (max-width: 767px) {
         .landing-area .nl-content h2 {
           font-size: 40px;
           width: 110%; } }
     .landing-area .nl-content h3 {
-      font-size: 32px;
+      font-size: 21px;
       display: block;
       font-weight: 400;
       margin-bottom: 0;
@@ -2966,7 +3030,7 @@ a.btn-trans-card {
           .landing-area .nl-content h3.b {
             width: 80%; } }
       .landing-area .nl-content h3 span {
-        color: #F44F5B; }
+        color: #844A83; }
       @media only screen and (max-width: 767px) {
         .landing-area .nl-content h3 {
           font-size: 18px;
@@ -2997,7 +3061,7 @@ a.btn-trans-card {
     .landing-area .nl-content .our-link {
       margin-left: 2rem; }
       .landing-area .nl-content .our-link i {
-        color: #F44F5B;
+        color: #844A83;
         font-size: 1rem;
         font-weight: 800;
         margin-right: 0.5rem; }
@@ -3005,7 +3069,7 @@ a.btn-trans-card {
         position: relative;
         z-index: 1;
         font-size: 15px;
-        color: #F44F5B;
+        color: #844A83;
         font-weight: 800;
         line-height: 2; }
         @media only screen and (max-width: 767px) {
@@ -3015,7 +3079,7 @@ a.btn-trans-card {
             font-weight: 600;
             line-height: 1.2; } }
         .landing-area .nl-content .our-link li i {
-          color: #F44F5B;
+          color: #844A83;
           font-size: 1rem;
           font-weight: 800;
           margin-right: 0.5rem; }
@@ -3041,9 +3105,9 @@ a.btn-trans-card {
       display: block;
       font-weight: 400;
       margin-bottom: 2rem;
-      color: #F44F5B; }
+      color: #844A83; }
       .landing-area .nl-content-sg h2 span {
-        color: #F44F5B; }
+        color: #844A83; }
       @media only screen and (max-width: 767px) {
         .landing-area .nl-content-sg h2 {
           font-size: 40px;
@@ -3066,7 +3130,7 @@ a.btn-trans-card {
       font-size: 19px;
       font-weight: 600;
       margin-bottom: 0;
-      color: #F44F5B; }
+      color: #844A83; }
       @media only screen and (max-width: 767px) {
         .landing-area .nl-content-sg h4 {
           font-size: 18px;
@@ -3096,7 +3160,7 @@ a.btn-trans-card {
     .landing-area .nl-content-sg .our-link {
       margin-left: 2rem; }
       .landing-area .nl-content-sg .our-link i {
-        color: #F44F5B;
+        color: #844A83;
         font-size: 1rem;
         font-weight: 800;
         margin-right: 0.5rem; }
@@ -3104,7 +3168,7 @@ a.btn-trans-card {
         position: relative;
         z-index: 1;
         font-size: 15px;
-        color: #F44F5B;
+        color: #844A83;
         font-weight: 800;
         line-height: 2; }
         @media only screen and (max-width: 767px) {
@@ -3114,7 +3178,7 @@ a.btn-trans-card {
             font-weight: 600;
             line-height: 1.2; } }
         .landing-area .nl-content-sg .our-link li i {
-          color: #F44F5B;
+          color: #844A83;
           font-size: 1rem;
           font-weight: 800;
           margin-right: 0.5rem; }
@@ -3133,10 +3197,10 @@ a.btn-trans-card {
       display: block;
       font-weight: 400;
       margin-bottom: 0;
-      color: #F44F5B;
+      color: #844A83;
       margin-bottom: 2%; }
       .landing-area .nl-content-s h2 span {
-        color: #F44F5B; }
+        color: #844A83; }
       @media only screen and (max-width: 767px) {
         .landing-area .nl-content-s h2 {
           font-size: 40px;
@@ -3157,7 +3221,7 @@ a.btn-trans-card {
             margin-right: 0;
             width: 80%; } }
       .landing-area .nl-content-s h3 span {
-        color: #F44F5B; }
+        color: #844A83; }
       @media only screen and (max-width: 767px) {
         .landing-area .nl-content-s h3 {
           font-size: 18px;
@@ -3188,7 +3252,7 @@ a.btn-trans-card {
     .landing-area .nl-content-s .our-link {
       margin-left: 2rem; }
       .landing-area .nl-content-s .our-link i {
-        color: #F44F5B;
+        color: #844A83;
         font-size: 1rem;
         font-weight: 800;
         margin-right: 0.5rem; }
@@ -3196,7 +3260,7 @@ a.btn-trans-card {
         position: relative;
         z-index: 1;
         font-size: 15px;
-        color: #F44F5B;
+        color: #844A83;
         font-weight: 800;
         line-height: 2; }
         @media only screen and (max-width: 767px) {
@@ -3206,7 +3270,7 @@ a.btn-trans-card {
             font-weight: 600;
             line-height: 1.2; } }
         .landing-area .nl-content-s .our-link li i {
-          color: #F44F5B;
+          color: #844A83;
           font-size: 1rem;
           font-weight: 800;
           margin-right: 0.5rem; }
@@ -3232,7 +3296,7 @@ a.btn-trans-card {
       font-size: 75px;
       font-weight: 400;
       margin-bottom: 1rem;
-      color: #F44F5B; }
+      color: #844A83; }
       @media only screen and (max-width: 767px) {
         .legal-area .legal-content h2 {
           font-size: 40px; } }
@@ -3255,7 +3319,7 @@ a.btn-trans-card {
           line-height: 1.5; } }
       .legal-area .legal-content p a {
         font-size: 14px;
-        color: #F44F5B;
+        color: #844A83;
         font-weight: 600;
         text-decoration: none; }
       .legal-area .legal-content p a:hover {
@@ -3276,7 +3340,7 @@ a.btn-trans-card {
           .legal-area .legal-content .content .our-link li {
             width: auto; } }
         .legal-area .legal-content .content .our-link li i {
-          color: #F44F5B;
+          color: #844A83;
           font-size: 1rem;
           font-weight: 800;
           margin-right: 0.5rem; }
@@ -3285,7 +3349,7 @@ a.btn-trans-card {
 .footer-area {
   position: relative;
   z-index: 1;
-  background-color: #00410A;
+  background-color: #844A83;
   padding: 2rem 0; }
   @media only screen and (max-width: 767px) {
     .footer-area {
@@ -3302,7 +3366,7 @@ a.btn-trans-card {
     border-radius: 1rem;
     padding: 0;
     border: 1.5px solid;
-    border-color: #F44F5B;
+    border-color: #844A83;
     min-width: auto;
     box-shadow: 0 6px 50px 8px rgba(0, 0, 0, 0.1); }
     .single-footer-widget .dropdown.lang .dropdown-menu .dropdown-item {
@@ -3317,9 +3381,9 @@ a.btn-trans-card {
       background-color: transparent;
       border: 0; }
       .single-footer-widget .dropdown.lang .dropdown-menu .dropdown-item.active {
-        color: #F44F5B; }
+        color: #844A83; }
       .single-footer-widget .dropdown.lang .dropdown-menu .dropdown-item:hover {
-        color: #F44F5B; }
+        color: #844A83; }
     @media only screen and (max-width: 767px) {
       .single-footer-widget .dropdown.lang .dropdown-menu {
         padding: 1rem 0; } }
@@ -3393,7 +3457,7 @@ a.btn-trans-card {
           line-height: 30px; } }
     .single-footer-widget .footer-social-info a:hover {
       border-color: transparent;
-      background-color: #F44F5B; }
+      background-color: #844A83; }
   .single-footer-widget .our-link {
     position: relative;
     z-index: 1; }
@@ -3416,7 +3480,7 @@ a.btn-trans-card {
           color: #ffffff;
           display: block;
           font-weight: normal;
-          text-decoration-color: #F44F5B !important;
+          text-decoration-color: #844A83 !important;
           width: 55%; }
           @media only screen and (min-width: 992px) and (max-width: 1199px) {
             .single-footer-widget .our-link li.footer a {
@@ -3436,7 +3500,7 @@ a.btn-trans-card {
         margin-right: -1.5rem;
         margin-left: -0.5rem; } }
     .single-footer-widget .footer-content h3 {
-      color: #F44F5B; }
+      color: #844A83; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
         .single-footer-widget .footer-content h3 {
           font-size: 20px; } }
@@ -3450,7 +3514,7 @@ a.btn-trans-card {
   font-size: 17px; }
   .form-control:focus {
     box-shadow: none;
-    border-color: #F44F5B; }
+    border-color: #844A83; }
 
 label {
   font-size: 12px;
@@ -3514,7 +3578,7 @@ textarea.form-control {
     opacity: 0;
     font-weight: 400;
     margin-top: 0;
-    color: #F44F5B;
+    color: #844A83;
     -webkit-transition: all 1s ease-in-out;
     -moz-transition: all 1s ease-in-out;
     -o-transition: all 1s ease-in-out;
@@ -3548,18 +3612,18 @@ textarea.form-control {
   .uza-video-area:focus span, .uza-video-area:hover span {
     height: 6rem; }
   .uza-video-area:focus .border-pais, .uza-video-area:hover .border-pais {
-    border: 1px solid #F44F5B; }
+    border: 1px solid #844A83; }
   .uza-video-area .video-play-btn {
     display: inline-block;
     border-radius: 50%;
     width: 22px;
     height: 22px;
-    background-color: #F44F5B;
+    background-color: #844A83;
     z-index: 20;
     margin-top: 3px; }
     .uza-video-area .video-play-btn:focus, .uza-video-area .video-play-btn:hover {
       box-shadow: none;
-      background-color: #F44F5B; }
+      background-color: #844A83; }
 
 .uza-video-area .video-play-btn {
   -webkit-transform: scale(0.93);
@@ -3578,7 +3642,7 @@ textarea.form-control {
     left: 0;
     padding: 0;
     z-index: -1;
-    box-shadow: 0 0 0 2px #F44F5B;
+    box-shadow: 0 0 0 2px #844A83;
     opacity: 1;
     -webkit-transform: scale(0.9);
     -ms-transform: scale(0.9);
@@ -3593,9 +3657,9 @@ textarea.form-control {
     opacity: 0.3; }
   40% {
     opacity: 0.5;
-    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #F44F5B, 0 0 0 10px rgba(255, 255, 255, 0.5); }
+    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #844A83, 0 0 0 10px rgba(255, 255, 255, 0.5); }
   100% {
-    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #F44F5B, 0 0 0 10px rgba(255, 255, 255, 0.5);
+    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #844A83, 0 0 0 10px rgba(255, 255, 255, 0.5);
     transform: scale(1.5);
     opacity: 0; } }
 @-moz-keyframes sonarEffect {
@@ -3603,9 +3667,9 @@ textarea.form-control {
     opacity: 0.3; }
   40% {
     opacity: 0.5;
-    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #F44F5B, 0 0 0 10px rgba(255, 255, 255, 0.5); }
+    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #844A83, 0 0 0 10px rgba(255, 255, 255, 0.5); }
   100% {
-    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #F44F5B, 0 0 0 10px rgba(255, 255, 255, 0.5);
+    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #844A83, 0 0 0 10px rgba(255, 255, 255, 0.5);
     transform: scale(1.5);
     opacity: 0; } }
 @keyframes sonarEffect {
@@ -3613,9 +3677,9 @@ textarea.form-control {
     opacity: 0.3; }
   40% {
     opacity: 0.5;
-    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #F44F5B, 0 0 0 10px rgba(255, 255, 255, 0.5); }
+    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #844A83, 0 0 0 10px rgba(255, 255, 255, 0.5); }
   100% {
-    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #F44F5B, 0 0 0 10px rgba(255, 255, 255, 0.5);
+    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #844A83, 0 0 0 10px rgba(255, 255, 255, 0.5);
     transform: scale(1.5);
     opacity: 0; } }
 /* :::::::::::::::::::::::::::: CFA CSS ::::::::::::::::::::::::::::*/
@@ -3625,7 +3689,7 @@ textarea.form-control {
   .single-cf-area h2 {
     margin-bottom: 0;
     font-size: 60px;
-    color: #F44F5B;
+    color: #844A83;
     margin-right: 20px; }
   .single-cf-area .cf-text h6 {
     margin-bottom: 0;
@@ -3662,11 +3726,11 @@ textarea.form-control {
   .cta-content h6 {
     font-size: 18px;
     margin-bottom: 0;
-    color: #F27281; }
+    color: A868AA; }
   .cta-content .call-now-btn a {
     display: inline-block;
     font-size: 30px;
-    color: #F44F5B; }
+    color: #844A83; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .cta-content .call-now-btn a {
         font-size: 22px; } }
@@ -3675,7 +3739,7 @@ textarea.form-control {
         font-size: 24px; } }
     .cta-content .call-now-btn a span {
       font-size: 18px;
-      color: #F27281; }
+      color: A868AA; }
       @media only screen and (max-width: 767px) {
         .cta-content .call-now-btn a span {
           font-size: 14px; } }
@@ -3707,12 +3771,12 @@ textarea.form-control {
     transition-duration: 300ms;
     font-weight: 600; }
   .single-service-area:focus .service-icon, .single-service-area:hover .service-icon {
-    background-color: #F44F5B;
+    background-color: #844A83;
     color: #ffffff;
     -webkit-box-shadow: 0 6px 50px 8px rgba(0, 0, 0, 0.1);
     box-shadow: 0 6px 50px 8px rgba(0, 0, 0, 0.1); }
   .single-service-area:focus h5, .single-service-area:hover h5 {
-    color: #F44F5B; }
+    color: #844A83; }
 
 .card-ear {
   position: relative;
@@ -3735,7 +3799,7 @@ textarea.form-control {
       color: #5D5C60;
       margin-right: 5rem; }
       .card-ear .nl-content h2 span {
-        color: #F44F5B; }
+        color: #844A83; }
         @media only screen and (max-width: 767px) {
           .card-ear .nl-content h2 span {
             color: #5D5C60; } }
@@ -3827,11 +3891,11 @@ textarea.form-control {
       .breadcrumb-area .breadcumb--con .breadcrumb .breadcrumb-item > a:hover,
       .breadcrumb-area .breadcumb--con .breadcrumb .breadcrumb-item.active:focus,
       .breadcrumb-area .breadcumb--con .breadcrumb .breadcrumb-item.active:hover {
-        color: #F44F5B; }
+        color: #844A83; }
     .breadcrumb-area .breadcumb--con .breadcrumb .breadcrumb-item.active {
-      color: #F27281; }
+      color: A868AA; }
       .breadcrumb-area .breadcumb--con .breadcrumb .breadcrumb-item.active:focus, .breadcrumb-area .breadcumb--con .breadcrumb .breadcrumb-item.active:hover {
-        color: #F27281; }
+        color: A868AA; }
     .breadcrumb-area .breadcumb--con .breadcrumb .page-item:first-child .page-link {
       margin-left: 0;
       border-top-left-radius: 0;
@@ -3866,7 +3930,7 @@ textarea.form-control {
     margin-top: 15px;
     font-size: 18px;
     margin-bottom: 0;
-    color: #F27281; }
+    color: A868AA; }
 
 .card-fond {
   border: 0;
@@ -3895,7 +3959,7 @@ textarea.form-control {
       .ind-items .card .card-body h3 {
         margin: 10px 0;
         padding: 0;
-        color: #5D5C60;
+        color: #844A83;
         text-align: left;
         font-size: 20px;
         font-weight: 600;
@@ -3919,8 +3983,7 @@ textarea.form-control {
     transition-duration: 500ms;
     border: 0;
     width: 15rem;
-    height: auto;
-    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important; }
+    height: auto; }
     .ind-items-comp .card .card-header {
       background-color: transparent;
       border: none; }
@@ -3984,7 +4047,7 @@ textarea.form-control {
       .ind-items-food .card .card-body h3 {
         margin: 10px 0;
         padding: 0;
-        color: #F44F5B;
+        color: #844A83;
         text-align: left;
         font-size: 30px;
         font-weight: 600;
@@ -4015,7 +4078,7 @@ textarea.form-control {
       -ms-transform: scale(1.1);
       transform: scale(1.1); }
     .ind-items-des .card:focus .card-body h2, .ind-items-des .card:hover .card-body h2 {
-      -webkit-text-stroke: 0.1rem #F44F5B; }
+      -webkit-text-stroke: 0.1rem #844A83; }
     .ind-items-des .card .card-header {
       background-color: transparent;
       border: none;
@@ -4080,7 +4143,7 @@ textarea.form-control {
     .card-movi .card-body .content h3 {
       margin: 10px 0;
       padding: 0;
-      color: #F44F5B;
+      color: #844A83;
       text-align: left;
       font-size: 30px;
       font-weight: 600;
@@ -4148,7 +4211,7 @@ textarea.form-control {
     border-radius: 1rem;
     padding: 0;
     border: 1.5px solid;
-    border-color: #F44F5B;
+    border-color: #844A83;
     min-width: auto;
     box-shadow: 0 6px 50px 8px rgba(0, 0, 0, 0.1); }
     .header-area .dropdown.lang .dropdown-menu .dropdown-item {
@@ -4163,9 +4226,9 @@ textarea.form-control {
       background-color: transparent;
       border: 0; }
       .header-area .dropdown.lang .dropdown-menu .dropdown-item.active {
-        color: #F44F5B; }
+        color: #844A83; }
       .header-area .dropdown.lang .dropdown-menu .dropdown-item:hover {
-        color: #F44F5B; }
+        color: #844A83; }
     @media only screen and (max-width: 767px) {
       .header-area .dropdown.lang .dropdown-menu {
         padding: 1rem 0; } }
@@ -4193,8 +4256,8 @@ textarea.form-control {
       border-color: #5D5C60;
       color: #5D5C60; }
       .header-area .main-header-area.sticky-menu .classy-nav-container .classy-navbar .classynav .lang-b a:focus, .header-area .main-header-area.sticky-menu .classy-nav-container .classy-navbar .classynav .lang-b a:hover {
-        color: #F44F5B;
-        border-color: #F44F5B; }
+        color: #844A83;
+        border-color: #844A83; }
     .header-area .main-header-area.sticky-menu .classy-nav-container .classy-navbar .classy-navbar-toggler .navbarToggler span {
       background-color: #3D4F4E; }
     .header-area .main-header-area.sticky-menu .classy-nav-container .classy-navbar .classynav ul li a i {
@@ -4212,13 +4275,13 @@ textarea.form-control {
           font-size: 25px;
           margin: 16px 0; } }
       .header-area .main-header-area.sticky-menu .classy-nav-container .classy-navbar .classynav ul li a.item-menu:focus, .header-area .main-header-area.sticky-menu .classy-nav-container .classy-navbar .classynav ul li a.item-menu:hover {
-        color: #F44F5B; }
+        color: #844A83; }
         .header-area .main-header-area.sticky-menu .classy-nav-container .classy-navbar .classynav ul li a.item-menu:focus::after, .header-area .main-header-area.sticky-menu .classy-nav-container .classy-navbar .classynav ul li a.item-menu:hover::after {
           content: '';
           position: absolute;
           width: 100%;
           height: 2.5px;
-          background-color: #F44F5B;
+          background-color: #844A83;
           margin-bottom: -1.78rem;
           bottom: 0;
           left: 50%;
@@ -4238,13 +4301,13 @@ textarea.form-control {
         content: none;
         width: auto; }
     .header-area .main-header-area.sticky-menu .classy-nav-container .classy-navbar .classynav ul li a.mega-item {
-      color: #F44F5B; }
+      color: #844A83; }
       .header-area .main-header-area.sticky-menu .classy-nav-container .classy-navbar .classynav ul li a.mega-item::after {
         content: '';
         position: absolute;
         width: 100%;
         height: 2.5px;
-        background-color: #F44F5B;
+        background-color: #844A83;
         margin-bottom: -1.8rem;
         bottom: 0;
         left: 50%;
@@ -4282,15 +4345,15 @@ textarea.form-control {
         content: none;
         width: auto; }
     .header-area .main-header-area.sticky-menu .classy-nav-container .classy-navbar .classynav ul li a.link:hover {
-      color: #F44F5B; }
+      color: #844A83; }
     .header-area .main-header-area.sticky-menu .classy-nav-container .classy-navbar .classynav ul li.current-item a {
-      color: #F44F5B; }
+      color: #844A83; }
       .header-area .main-header-area.sticky-menu .classy-nav-container .classy-navbar .classynav ul li.current-item a.item-menu::after {
         content: '';
         position: absolute;
         width: 100%;
         height: 2.5px;
-        background-color: #F44F5B;
+        background-color: #844A83;
         margin-bottom: -1.07rem;
         bottom: 0;
         left: 50%;
@@ -4346,15 +4409,15 @@ textarea.form-control {
           border-color: #5D5C60;
           color: #5D5C60; }
           .header-area .main-header-area.sticky .classy-nav-container .classy-navbar .classynav .lang-b a:focus, .header-area .main-header-area.sticky .classy-nav-container .classy-navbar .classynav .lang-b a:hover {
-            color: #F44F5B;
-            border-color: #F44F5B; }
+            color: #844A83;
+            border-color: #844A83; }
         .header-area .main-header-area.sticky .classy-nav-container .classy-navbar .classy-navbar-toggler .navbarToggler span {
           background-color: #3D4F4E; }
         .header-area .main-header-area.sticky .classy-nav-container .classy-navbar .btn-lang {
-          color: #F44F5B;
-          border-color: #F44F5B; }
+          color: #844A83;
+          border-color: #844A83; }
           .header-area .main-header-area.sticky .classy-nav-container .classy-navbar .btn-lang:focus, .header-area .main-header-area.sticky .classy-nav-container .classy-navbar .btn-lang:hover {
-            background-color: #F44F5B;
+            background-color: #844A83;
             color: #ffffff; }
         .header-area .main-header-area.sticky .classy-nav-container .classy-navbar .classynav ul li a {
           position: relative;
@@ -4367,7 +4430,7 @@ textarea.form-control {
           .header-area .main-header-area.sticky .classy-nav-container .classy-navbar .classynav ul li a i {
             line-height: 3; }
           .header-area .main-header-area.sticky .classy-nav-container .classy-navbar .classynav ul li a:focus, .header-area .main-header-area.sticky .classy-nav-container .classy-navbar .classynav ul li a:hover {
-            color: #F44F5B; }
+            color: #844A83; }
           @media only screen and (max-width: 767px) {
             .header-area .main-header-area.sticky .classy-nav-container .classy-navbar .classynav ul li a {
               font-size: 25px;
@@ -4398,15 +4461,15 @@ textarea.form-control {
               content: none;
               width: auto; }
           .header-area .main-header-area.sticky .classy-nav-container .classy-navbar .classynav ul li a.link:hover {
-            color: #F44F5B; }
+            color: #844A83; }
         .header-area .main-header-area.sticky .classy-nav-container .classy-navbar .classynav ul li.current-item a {
-          color: #F44F5B; }
+          color: #844A83; }
           .header-area .main-header-area.sticky .classy-nav-container .classy-navbar .classynav ul li.current-item a::after {
             content: '';
             position: absolute;
             width: 100%;
             height: 2.5px;
-            background-color: #F44F5B;
+            background-color: #844A83;
             margin-bottom: -1.07rem;
             bottom: 0;
             left: 50%;
@@ -4457,10 +4520,10 @@ textarea.form-control {
             max-width: 150px;
             margin-right: 15px; } }
         .header-area .main-header-area2 .classy-nav-container .classy-navbar .classynav .btn-lang {
-          color: #F44F5B;
-          border-color: #F44F5B; }
+          color: #844A83;
+          border-color: #844A83; }
           .header-area .main-header-area2 .classy-nav-container .classy-navbar .classynav .btn-lang:focus, .header-area .main-header-area2 .classy-nav-container .classy-navbar .classynav .btn-lang:hover {
-            background-color: #F44F5B;
+            background-color: #844A83;
             color: #ffffff; }
         .header-area .main-header-area2 .classy-nav-container .classy-navbar .classy-navbar-toggler .navbarToggler span {
           background-color: #3D4F4E; }
@@ -4477,7 +4540,7 @@ textarea.form-control {
               .header-area .main-header-area2 .classy-nav-container .classy-navbar .classynav ul li a.item-menu {
                 margin: 30px 0; } }
           .header-area .main-header-area2 .classy-nav-container .classy-navbar .classynav ul li a:hover {
-            color: #F44F5B; }
+            color: #844A83; }
           @media only screen and (max-width: 767px) {
             .header-area .main-header-area2 .classy-nav-container .classy-navbar .classynav ul li a {
               font-size: 25px; } }
@@ -4506,15 +4569,17 @@ textarea.form-control {
               content: none;
               width: auto; }
           .header-area .main-header-area2 .classy-nav-container .classy-navbar .classynav ul li a.link:hover {
-            color: #F44F5B; }
+            color: #844A83; }
           .header-area .main-header-area2 .classy-nav-container .classy-navbar .classynav ul li a.mega-item {
-            color: #F44F5B; }
+            color: #844A83; }
+            .header-area .main-header-area2 .classy-nav-container .classy-navbar .classynav ul li a.mega-item.a-bl::after {
+              margin-bottom: -1.75rem; }
             .header-area .main-header-area2 .classy-nav-container .classy-navbar .classynav ul li a.mega-item::after {
               content: '';
               position: absolute;
               width: 100%;
               height: 2.5px;
-              background-color: #F44F5B;
+              background-color: #844A83;
               margin-bottom: -1.07rem;
               bottom: 0;
               left: 50%;
@@ -4522,10 +4587,6 @@ textarea.form-control {
               -ms-transform: translateX(-50%);
               transform: translateX(-50%);
               z-index: 1; }
-              @media only screen and (min-width: 768px) and (max-width: 991px) {
-                .header-area .main-header-area2 .classy-nav-container .classy-navbar .classynav ul li a.mega-item::after {
-                  width: 100%;
-                  height: 1px; } }
               @media only screen and (max-width: 767px) {
                 .header-area .main-header-area2 .classy-nav-container .classy-navbar .classynav ul li a.mega-item::after {
                   content: none;
@@ -4540,7 +4601,7 @@ textarea.form-control {
             position: absolute;
             width: 100%;
             height: 2.5px;
-            background-color: #F44F5B;
+            background-color: #844A83;
             margin-bottom: -1.07rem;
             bottom: 0;
             left: 50%;
@@ -4577,7 +4638,7 @@ textarea.form-control {
       .mega-menu-text h2 {
         font-size: 42px; } }
     .mega-menu-text h2 span {
-      color: #F44F5B; }
+      color: #844A83; }
 
 .classy-nav-container {
   background-color: transparent;
@@ -4606,8 +4667,8 @@ textarea.form-control {
       border-color: #ffffff;
       color: #ffffff; }
       .classy-nav-container .classy-navbar .classynav .lang-b a:focus, .classy-nav-container .classy-navbar .classynav .lang-b a:hover {
-        color: #F44F5B;
-        border-color: #F44F5B; }
+        color: #844A83;
+        border-color: #844A83; }
     .classy-nav-container .classy-navbar .classynav ul li a i {
       line-height: 3; }
     .classy-nav-container .classy-navbar .classynav ul li a.item-menu {
@@ -4619,7 +4680,7 @@ textarea.form-control {
       color: #ffffff;
       margin: 30px 0; }
       .classy-nav-container .classy-navbar .classynav ul li a.item-menu:focus, .classy-nav-container .classy-navbar .classynav ul li a.item-menu:hover {
-        color: #F44F5B; }
+        color: #844A83; }
       @media only screen and (max-width: 767px) {
         .classy-nav-container .classy-navbar .classynav ul li a.item-menu {
           font-size: 25px;
@@ -4645,7 +4706,7 @@ textarea.form-control {
         content: none;
         width: auto; }
     .classy-nav-container .classy-navbar .classynav ul li a.link:hover {
-      color: #F44F5B; }
+      color: #844A83; }
     .classy-nav-container .classy-navbar .classynav ul li.current-item a::after {
       content: '';
       position: absolute;
@@ -4700,7 +4761,7 @@ textarea.form-control {
         background-color: transparent; }
         .top-search-area .modal-content .modal-body button.close-btn.btn:focus, .top-search-area .modal-content .modal-body button.close-btn.btn:hover {
           box-shadow: none;
-          color: #F44F5B; }
+          color: #844A83; }
 .top-search-area form {
   width: 100%;
   position: relative;
@@ -4725,7 +4786,7 @@ textarea.form-control {
     z-index: 10;
     border-radius: 0 6px 6px 0;
     border: none;
-    background-color: #F44F5B;
+    background-color: #844A83;
     font-weight: 600;
     font-size: 14px;
     text-transform: uppercase;
@@ -4748,7 +4809,7 @@ textarea.form-control {
   padding: 1rem 0; }
   .menu-icon-social a {
     display: inline-block;
-    color: #F44F5B;
+    color: #844A83;
     font-size: 45px;
     margin-right: 10px;
     width: 45px;
@@ -4779,7 +4840,7 @@ textarea.form-control {
   transform: rotate(270deg); }
   .lateral-text h4 {
     font-size: 20px;
-    color: #F44F5B;
+    color: #844A83;
     font-weight: 400; }
 
 .img-puntos {
@@ -4810,8 +4871,8 @@ textarea.form-control {
 
 .welcome-text {
   position: relative;
-  text-align: center;
-  width: 70%;
+  text-align: left;
+  width: 100%;
   z-index: 1;
   margin-left: auto;
   margin-right: auto; }
@@ -4821,7 +4882,7 @@ textarea.form-control {
       margin-left: auto;
       width: 90%; } }
   .welcome-text h2 {
-    font-size: 80px;
+    font-size: 98px;
     display: block;
     margin: 30px 0;
     margin-top: 60px;
@@ -4833,17 +4894,19 @@ textarea.form-control {
         line-height: 1.2;
         font-size: 34px;
         font-weight: 400; } }
-    .welcome-text h2 img {
-      width: 135px;
-      position: absolute; }
-      @media only screen and (max-width: 767px) {
-        .welcome-text h2 img {
-          width: 60px; } }
     .welcome-text h2 span {
-      color: #F44F5B; }
+      color: #844A83; }
+  .welcome-text img {
+    width: 100px;
+    position: absolute;
+    margin-top: -4.5rem;
+    margin-left: 31rem; }
+    @media only screen and (max-width: 767px) {
+      .welcome-text img {
+        width: 60px; } }
   .welcome-text h5 {
     font-size: 22px;
-    color: #F27281;
+    color: A868AA;
     margin-bottom: 60px;
     display: block; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -4855,9 +4918,8 @@ textarea.form-control {
         font-size: 14px;
         margin-bottom: 40px; } }
   .welcome-text p {
-    font-size: 30px;
+    font-size: 39px;
     display: block;
-    margin-top: 4rem;
     color: #ffffff;
     font-weight: 400;
     line-height: 1;
@@ -4866,10 +4928,9 @@ textarea.form-control {
       .welcome-text p {
         font-size: 18px;
         width: 79%;
-        margin-top: 2rem;
         line-height: 1.5; } }
     .welcome-text p span {
-      color: #F44F5B; }
+      color: #844A83; }
 
 .single-welcome-slide {
   position: relative;
@@ -4941,7 +5002,7 @@ textarea.form-control {
       width: 70%;
       font-weight: 400;
       line-height: 1;
-      color: #F44F5B; }
+      color: #844A83; }
       @media only screen and (max-width: 767px) {
         .solid-area .nl-content h2 {
           font-size: 25px;
@@ -4954,7 +5015,7 @@ textarea.form-control {
       color: #5D5C60;
       margin: 2rem 0; }
       .solid-area .nl-content h3 span {
-        color: #F44F5B; }
+        color: #844A83; }
       @media only screen and (max-width: 767px) {
         .solid-area .nl-content h3 {
           font-size: 15px;
@@ -5000,15 +5061,13 @@ textarea.form-control {
   transition-duration: 600ms;
   position: relative;
   z-index: 1;
-  width: 250px;
+  width: 310px;
   height: 450px;
   padding: 0;
   -webkit-transform: scale(1);
   -ms-transform: scale(1);
   transform: scale(1);
   background-color: #ffffff; }
-  .single-portfolio-slide.overlay {
-    position: relative; }
   .single-portfolio-slide.overlay:before {
     position: absolute;
     content: "";
@@ -5016,7 +5075,7 @@ textarea.form-control {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0, 0, 0, 0.35);
+    background: rgba(0, 0, 0, 0.35) !important;
     z-index: 1; }
   @media only screen and (max-width: 767px) {
     .single-portfolio-slide {
@@ -5029,13 +5088,16 @@ textarea.form-control {
     background-position: center center; }
   .single-portfolio-slide.img1 {
     background-image: url("./img/bg-img/1-img.jpg");
-    background-position-x: -16rem; }
+    background-position-x: -16em;
+    background-size: 300%; }
     @media only screen and (max-width: 767px) {
       .single-portfolio-slide.img1 {
         background-position-x: 0; } }
   .single-portfolio-slide.img2 {
     background-image: url("./img/bg-img/2-img.jpg");
-    background-position-x: -11rem; }
+    background-position-x: -30em;
+    background-position-y: 0;
+    background-size: 270%; }
     @media only screen and (max-width: 767px) {
       .single-portfolio-slide.img2 {
         background-position-x: 0; } }
@@ -5047,15 +5109,9 @@ textarea.form-control {
         background-position-x: 0; } }
   .single-portfolio-slide.img4 {
     background-image: url("./img/bg-img/4-img.jpg");
-    background-position-x: -16rem; }
+    background-position-x: -21rem; }
     @media only screen and (max-width: 767px) {
       .single-portfolio-slide.img4 {
-        background-position-x: 0; } }
-  .single-portfolio-slide.img5 {
-    background-image: url("./img/bg-img/5-img.jpg");
-    background-position-x: -23rem; }
-    @media only screen and (max-width: 767px) {
-      .single-portfolio-slide.img5 {
         background-position-x: 0; } }
   .single-portfolio-slide img {
     position: relative;
@@ -5091,8 +5147,8 @@ textarea.form-control {
       font-weight: 600;
       line-height: 1;
       color: #ffffff;
-      font-size: 26px;
-      width: 90%; }
+      font-size: 35px;
+      width: 85%; }
       @media only screen and (max-width: 767px) {
         .single-portfolio-slide .overlay-effect h4 {
           font-size: 25px;
@@ -5114,7 +5170,7 @@ textarea.form-control {
     min-width: 170px;
     height: 55px;
     border-radius: 50px;
-    background-color: #F44F5B;
+    background-color: #844A83;
     display: inline-block;
     position: absolute;
     bottom: 2rem;
@@ -5136,7 +5192,7 @@ textarea.form-control {
         line-height: 1.9;
         font-size: 15px; } }
     .single-portfolio-slide .view-more-btn a:focus, .single-portfolio-slide .view-more-btn a:hover {
-      background-color: #F27281; }
+      background-color: A868AA; }
   .single-portfolio-slide .view-more-btn-plus a {
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
@@ -5144,7 +5200,7 @@ textarea.form-control {
     height: 40px;
     width: 40px;
     border-radius: 50%;
-    background-color: #F44F5B;
+    background-color: #844A83;
     display: inline-block;
     position: absolute;
     bottom: 15px;
@@ -5157,7 +5213,7 @@ textarea.form-control {
     opacity: 1;
     visibility: visible; }
     .single-portfolio-slide .view-more-btn-plus a:focus, .single-portfolio-slide .view-more-btn-plus a:hover {
-      background-color: #F44F5B;
+      background-color: #844A83;
       color: #ffffff; }
   .single-portfolio-slide:focus, .single-portfolio-slide:hover {
     -webkit-box-shadow: 0 6px 50px 8px rgba(0, 0, 0, 0.1);
@@ -5226,7 +5282,7 @@ textarea.form-control {
         max-width: 38px;
         width: 38px;
         border-radius: 15px;
-        background-color: #F44F5B; }
+        background-color: #844A83; }
 
 .portfolio-menu {
   position: relative;
@@ -5235,7 +5291,7 @@ textarea.form-control {
     background-color: transparent;
     padding: 0;
     font-weight: 600;
-    color: #F27281;
+    color: A868AA;
     font-size: 22px;
     margin: 0 20px; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -5275,7 +5331,7 @@ textarea.form-control {
   .portfolio-details-text h6 {
     font-size: 14px;
     text-transform: uppercase;
-    color: #F44F5B;
+    color: #844A83;
     letter-spacing: 1px;
     margin-bottom: 20px;
     font-weight: 400; }
@@ -5300,7 +5356,7 @@ textarea.form-control {
   .portfolio-social-info a:last-child {
     margin-right: 0; }
   .portfolio-social-info a:hover, .portfolio-social-info a:focus {
-    color: #F44F5B; }
+    color: #844A83; }
 
 .portfolio-pager {
   position: relative;
@@ -5309,9 +5365,9 @@ textarea.form-control {
     display: inline-block;
     color: #5D5C60; }
     .portfolio-pager a:nth-child(2) {
-      color: #F27281; }
+      color: A868AA; }
     .portfolio-pager a:hover, .portfolio-pager a:focus {
-      color: #F44F5B; }
+      color: #844A83; }
     @media only screen and (max-width: 767px) {
       .portfolio-pager a {
         font-size: 12px; } }
@@ -5418,7 +5474,7 @@ textarea.form-control {
     opacity: 1;
     visibility: visible; }
     .Knows-cards .view-more-btn a:focus, .Knows-cards .view-more-btn a:hover {
-      background-color: #F44F5B;
+      background-color: #844A83;
       border-color: transparent; }
   .Knows-cards:focus, .Knows-cards:hover {
     -webkit-box-shadow: 0 6px 50px 8px rgba(0, 0, 0, 0.1);
@@ -5582,7 +5638,7 @@ textarea.form-control {
         height: 40px;
         line-height: 45px; } }
     .slide-group .view-more-btn a:focus, .slide-group .view-more-btn a:hover {
-      background-color: #F44F5B;
+      background-color: #844A83;
       color: #ffffff;
       border-color: transparent; }
   @media only screen and (max-width: 767px) {
@@ -5628,7 +5684,7 @@ textarea.form-control {
       .testimonial-slides .owl-next i:hover, .testimonial-slides .owl-next i:focus,
       .testimonial-slides .owl-prev i:hover,
       .testimonial-slides .owl-prev i:focus {
-        color: #F44F5B; }
+        color: #844A83; }
   .testimonial-slides .owl-next {
     left: auto;
     right: 0; }
@@ -5728,12 +5784,12 @@ textarea.form-control {
   position: relative;
   z-index: 0;
   padding: 5rem 0 5rem 0;
-  background-position-y: -3rem;
+  background-position-y: -5.5rem;
   background-size: cover;
   background-image: url("img/bg-img/img-b-1.jpg"); }
   .sec-footer-area.alone {
-    padding: 13rem 0;
-    margin-top: -15rem; }
+    padding: 14.5rem 0;
+    margin-top: -18rem; }
     @media only screen and (max-width: 767px) {
       .sec-footer-area.alone {
         padding: 10rem 0;
@@ -5784,7 +5840,7 @@ textarea.form-control {
       display: block;
       font-weight: 400;
       margin-bottom: 0;
-      color: #F44F5B; }
+      color: #844A83; }
       @media only screen and (max-width: 767px) {
         .sec-footer-area .nl-content h2 {
           font-size: 40px; } }
@@ -5801,8 +5857,8 @@ textarea.form-control {
   .sec-footer-area .nl-content-foo {
     position: relative;
     z-index: 1;
-    text-align: center;
-    margin-bottom: 11rem;
+    text-align: left;
+    margin-bottom: 14rem;
     margin-top: -3rem; }
     @media only screen and (max-width: 767px) {
       .sec-footer-area .nl-content-foo.butto {
@@ -5817,7 +5873,7 @@ textarea.form-control {
       font-size: 55px;
       display: block;
       font-weight: 400;
-      color: #F44F5B; }
+      color: #844A83; }
       @media only screen and (max-width: 767px) {
         .sec-footer-area .nl-content-foo h2 {
           font-size: 40px; } }
@@ -5848,7 +5904,7 @@ textarea.form-control {
       display: block;
       font-weight: 400;
       margin-bottom: 0;
-      color: #F44F5B; }
+      color: #844A83; }
       @media only screen and (max-width: 767px) {
         .sec-footer-area .nl-content-2 h2 {
           font-size: 28px;
@@ -5888,7 +5944,7 @@ textarea.form-control {
       display: block;
       font-weight: 400;
       margin-bottom: 0;
-      color: #F44F5B; }
+      color: #844A83; }
       @media only screen and (max-width: 767px) {
         .sec-landing-area .nl-content h2 {
           font-size: 40px; } }
@@ -6022,7 +6078,7 @@ textarea.form-control {
       font-size: 28px;
       font-weight: 400;
       margin-bottom: 0;
-      color: #F44F5B; }
+      color: #844A83; }
       @media only screen and (max-width: 767px) {
         .sec-des-area .nl-content h3 {
           font-size: 28px; } }
@@ -6070,7 +6126,7 @@ textarea.form-control {
       background-color: transparent;
       box-shadow: none; }
   .sec-des-area .swiper-pagination-bullet-active {
-    background-color: #F44F5B !important;
+    background-color: #844A83 !important;
     width: 55px !important;
     border-radius: 10px !important;
     opacity: 1 !important;
@@ -6103,17 +6159,30 @@ textarea.form-control {
     padding: 0; }
     .food-area .container .sec-1 {
       padding: 0 2.5rem; }
-  .food-area .img-fond {
-    width: 100%;
+  .food-area .img-lateral {
+    width: 40%;
     position: absolute;
-    z-index: -1;
-    margin-top: 5rem; }
+    z-index: 2;
+    margin-top: -15rem;
+    right: 0;
+    margin-right: -5rem; }
     @media only screen and (max-width: 767px) {
-      .food-area .img-fond {
-        max-width: 200%;
-        width: 200%;
-        margin-top: 23rem;
-        margin-left: -10rem; } }
+      .food-area .img-lateral {
+        width: 40%;
+        margin-top: -15rem;
+        margin-right: -5rem; } }
+  .food-area .img-lateral-2 {
+    width: 20%;
+    position: absolute;
+    z-index: 2;
+    margin-top: 1rem;
+    right: 0;
+    margin-right: 22rem; }
+    @media only screen and (max-width: 767px) {
+      .food-area .img-lateral-2 {
+        width: 20%;
+        margin-top: 1rem;
+        margin-right: 22rem; } }
   .food-area .border-line {
     width: 100%;
     height: 1px;
@@ -6141,23 +6210,51 @@ textarea.form-control {
           font-weight: 400;
           margin-top: 15px; }
           .food-area .nl-content .card .card-body li i {
-            color: #F44F5B; }
+            color: #844A83; }
           @media only screen and (max-width: 767px) {
             .food-area .nl-content .card .card-body li {
               font-size: 13px;
               margin-bottom: 0;
               margin-top: 10px; } }
+    .food-area .nl-content .our-link {
+      margin-left: 2rem; }
+      @media only screen and (max-width: 767px) {
+        .food-area .nl-content .our-link {
+          margin-left: 0; } }
+      .food-area .nl-content .our-link i {
+        color: #844A83;
+        font-size: 18px;
+        font-weight: 800;
+        line-height: 1.8;
+        margin-right: 0.5rem; }
+        @media only screen and (max-width: 767px) {
+          .food-area .nl-content .our-link i {
+            line-height: 1.5; } }
+      .food-area .nl-content .our-link li {
+        position: relative;
+        z-index: 1;
+        font-size: 18px;
+        color: #5D5C60;
+        font-weight: 400;
+        line-height: 1.8;
+        margin-bottom: 1rem; }
+        @media only screen and (max-width: 767px) {
+          .food-area .nl-content .our-link li {
+            width: auto;
+            font-size: 14px;
+            font-weight: 600;
+            line-height: 1.5; } }
     .food-area .nl-content h2 {
-      font-size: 53px;
+      font-size: 29px;
       display: block;
       font-weight: 400;
       margin-bottom: 0;
-      color: #F44F5B;
+      color: #844A83;
       line-height: 1.1; }
       .food-area .nl-content h2.b {
         font-size: 33px;
         margin-bottom: 2rem;
-        color: #F44F5B;
+        color: #844A83;
         font-weight: 600; }
         @media only screen and (max-width: 767px) {
           .food-area .nl-content h2.b {
@@ -6243,12 +6340,12 @@ textarea.form-control {
     .single-blog-post .post-content .post-date {
       font-size: 16px;
       text-transform: capitalize;
-      color: #F27281;
+      color: A868AA;
       display: block;
       margin-bottom: 10px; }
       .single-blog-post .post-content .post-date span {
         font-size: 36px;
-        color: #F44F5B;
+        color: #844A83;
         margin-right: 5px; }
     .single-blog-post .post-content .post-title {
       font-size: 24px;
@@ -6256,7 +6353,7 @@ textarea.form-control {
       margin-bottom: 15px;
       display: block; }
       .single-blog-post .post-content .post-title:focus, .single-blog-post .post-content .post-title:hover {
-        color: #F44F5B; }
+        color: #844A83; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
         .single-blog-post .post-content .post-title {
           font-size: 18px; } }
@@ -6271,7 +6368,7 @@ textarea.form-control {
       -ms-flex-align: center;
       align-items: center; }
       .single-blog-post .post-content .read-more-btn i {
-        color: #F44F5B;
+        color: #844A83;
         font-size: 20px; }
   .single-blog-post:focus, .single-blog-post:hover {
     -webkit-box-shadow: 0 6px 50px 8px rgba(0, 0, 0, 0.1);
@@ -6285,12 +6382,12 @@ textarea.form-control {
   .blog-details-content .post-content .post-date {
     font-size: 16px;
     text-transform: capitalize;
-    color: #F27281;
+    color: A868AA;
     display: block;
     font-weight: 600; }
     .blog-details-content .post-content .post-date span {
       font-size: 36px;
-      color: #F44F5B; }
+      color: #844A83; }
   .blog-details-content .post-content h2 {
     color: #5D5C60;
     font-size: 60px;
@@ -6317,7 +6414,7 @@ textarea.form-control {
       font-size: 24px; } }
   .blog-details-content p {
     font-size: 18px;
-    color: #F27281;
+    color: A868AA;
     font-weight: 400; }
     @media only screen and (max-width: 767px) {
       .blog-details-content p {
@@ -6338,12 +6435,12 @@ textarea.form-control {
     color: #5D5C60;
     font-size: 16px; }
     .uza-pagination .pagination .page-item .page-link:focus, .uza-pagination .pagination .page-item .page-link:hover {
-      background-color: #F44F5B;
-      border-color: #F44F5B;
+      background-color: #844A83;
+      border-color: #844A83;
       color: #ffffff; }
   .uza-pagination .pagination .page-item.active .page-link {
-    background-color: #F44F5B;
-    border-color: #F44F5B;
+    background-color: #844A83;
+    border-color: #844A83;
     color: #ffffff; }
 
 .comment_area {
@@ -6380,7 +6477,7 @@ textarea.form-control {
       .comment_area .comment-content .comment-author img {
         border-radius: 50%; }
     .comment_area .comment-content .comment-meta .post-date {
-      color: #F44F5B;
+      color: #844A83;
       font-size: 12px;
       text-transform: uppercase;
       display: block;
@@ -6409,8 +6506,8 @@ textarea.form-control {
       .comment_area .comment-content .comment-meta a.like:focus, .comment_area .comment-content .comment-meta a.like:hover,
       .comment_area .comment-content .comment-meta a.reply:focus,
       .comment_area .comment-content .comment-meta a.reply:hover {
-        border-color: #F44F5B;
-        background-color: #F44F5B;
+        border-color: #844A83;
+        background-color: #844A83;
         color: #ffffff; }
   .comment_area .children {
     margin-left: 50px; }
@@ -6440,7 +6537,7 @@ textarea.form-control {
         width: 50px; } }
     .uza-blockquote .icon i {
       font-size: 60px;
-      color: #F44F5B; }
+      color: #844A83; }
       @media only screen and (max-width: 767px) {
         .uza-blockquote .icon i {
           font-size: 30px; } }
@@ -6475,7 +6572,7 @@ textarea.form-control {
     .uza-post-share .social-info- a:last-child {
       margin-right: 0; }
     .uza-post-share .social-info- a:focus, .uza-post-share .social-info- a:hover {
-      color: #F44F5B; }
+      color: #844A83; }
     @media only screen and (max-width: 767px) {
       .uza-post-share .social-info- a {
         font-size: 12px;
@@ -6496,7 +6593,7 @@ textarea.form-control {
     font-weight: 600;
     margin: 3px; }
     .post-catagories ul li a:focus, .post-catagories ul li a:hover {
-      background-color: #F44F5B;
+      background-color: #844A83;
       color: #ffffff; }
     @media only screen and (max-width: 767px) {
       .post-catagories ul li a {
@@ -6509,3 +6606,5 @@ textarea.form-control {
   padding-top: 50px;
   border-top: 1px solid #ebebeb;
   margin-bottom: 20px; }
+
+/*# sourceMappingURL=style.css.map */

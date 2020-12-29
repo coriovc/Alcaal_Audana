@@ -32,7 +32,7 @@
 
     &.error-404{
        padding: 14rem 0;
-       margin-top: 0;
+       margin-top: -10rem;
        
        @media #{$breakpoint-xs} {
             padding: 8rem 0;
@@ -45,7 +45,7 @@
         background-position-x: -8rem;
         width: 150%;
         max-width: 200%;
-        background-position-y: 0;
+        background-position-y: -2rem;
     }
 
     .border-line {
@@ -119,6 +119,7 @@
             margin-bottom: 5rem;
             margin-top: -2rem;
             width: 66%;
+            text-align: center;
         }
 
         h2 {
@@ -511,7 +512,7 @@
     }
 
     @media #{$breakpoint-xs} {
-        padding: 4rem 0 0 0;
+        padding: 8rem 0 0 0;
     }
 
     .container{
@@ -529,9 +530,9 @@
         right: 0;
         margin-right: -5rem;
             @media #{$breakpoint-xs} {
-                width: 40%;
-                margin-top: -15rem;
-                margin-right: -5rem;
+                width: 50%;
+                margin-top: -12rem;
+                margin-right: -2rem;
             }
     }
 
@@ -543,9 +544,9 @@
         right: 0;
         margin-right: 22rem;
             @media #{$breakpoint-xs} {
-                width: 20%;
-                margin-top: 1rem;
-                margin-right: 22rem;
+                width: 25%;
+                margin-top: -2rem;
+                margin-right: 5rem;
             }
     }
 
@@ -658,9 +659,10 @@
             }      
 
             @media #{$breakpoint-xs} {
-                font-size: 21px;
+                font-size: 25px;
                 line-height: 1.2;
-                font-weight: 500;
+                font-weight: 500;   
+                width: 70%;
             }
         }
 
@@ -681,3 +683,4 @@
     }
 
 }
+

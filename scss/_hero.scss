@@ -78,8 +78,9 @@
 
             @media #{$breakpoint-xs} {
                 line-height: 1.2;
-                font-size: 34px;
+                font-size: 38px;
                 font-weight: 400;
+                margin-bottom: 0;
             }
 
             
@@ -95,7 +96,9 @@
             margin-left: 31rem;
 
              @media #{$breakpoint-xs} {
-                width: 60px;
+                width: 45px;
+                margin-top: -3.5rem;
+                margin-left: 15rem;
             }
         }
 
