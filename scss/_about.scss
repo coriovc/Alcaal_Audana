@@ -54,6 +54,21 @@
     }
 }
 
+.about-landing-area {
+    position: relative;
+    z-index: 1;
+    padding: 6rem 0;
+    
+    .container{
+        max-width: 95%;
+    }
+
+    @media #{$breakpoint-xs} {
+        padding:3% 5%;
+        padding-bottom: 0;
+    }
+}
+
 
 
 .phill-area-hero{

@@ -654,6 +654,17 @@ a.btn-trans-card {
       padding: 3% 5%;
       padding-bottom: 0; } }
 
+.about-landing-area {
+  position: relative;
+  z-index: 1;
+  padding: 6rem 0; }
+  .about-landing-area .container {
+    max-width: 95%; }
+  @media only screen and (max-width: 767px) {
+    .about-landing-area {
+      padding: 3% 5%;
+      padding-bottom: 0; } }
+
 .phill-area-hero {
   padding-top: 9%;
   display: block; }
