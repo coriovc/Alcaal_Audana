@@ -16,7 +16,8 @@
 
     ".welcome-area-lang":{
         "title" : "Más de 10 años",
-        "parrafo" : "Empoderando a las comunidades donde comerciamos"
+        "parrafo" : "Empoderando a las comunidades donde comerciamos",
+        "img":"<img src=\"img/core-img/flecha.png\" style=\"margin-left: 34rem;\">"
     },
 
     ".sec-1-lang":{
