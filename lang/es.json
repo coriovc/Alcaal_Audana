@@ -2,62 +2,64 @@
     
     ".head-lang":{        
         "item-1" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Empresa",        
-        "item-2" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Productos alimenticios",
-        "item-3" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Otros productos",
-        "item-4" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Contacto",
+        "item-2" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Servicios<i id=\"drop\" class=\"arrow_carrot-down\"></i>",
+            "item-2-a" : "Empoderar a las comunidades<br>con el comercio",
+            "item-2-1" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Productos alimenticios",
+            "item-2-2" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Productos para el cuidado de la salud",
+            "item-2-3" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Productos de limpieza",
+            "item-2-4" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Otros productos",
+        "item-3" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Contacto",
 
         "select-lang" : "ESP",
         "select-idioma" :"<button class=\"dropdown-item\" type=\"button\" onclick=\"setLanguage('en')\">English</button><button class=\"dropdown-item active\" type=\"button\" onclick=\"setLanguage('es')\">Español</button>"
     },
 
     ".welcome-area-lang":{
-        "title" : "Creando puentes entre culturas"
+        "title" : "Más de 10 años",
+        "parrafo" : "Empoderando a las comunidades donde comerciamos"
     },
 
     ".sec-1-lang":{
-        "text-title" : "Más de 30 años",
-        "text-title-b" : "de experiencia en proyectos agroindustriales a gran escala",
-        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Sobre Prenova"
+        
+        "text-title" : "Tenemos el historial, la escala y la experiencia necesarios para cumplir",
+        "text-title-b" : "Basándonos en más de diez años de experiencia multinacional en el comercio internacional, somos un equipo de profesionales dedicados al crecimiento y la eficiencia del comercio global",
+         "btn":"<i class=\"arrow_right-up icon-zise mr-2\"></i>Acerca de Audana"
     },
 
 
     ".sec-2-lang":{
-        "text-title" : "Proyectos de producción de alimentos",
-        "parra" : "Nuestra especialidad es la creación de proyectos sostenibles en el continente africano destinados a mejorar la calidad de vida y la autosuficiencia de las comunidades a través de proyectos de producción de alimentos",
-        "text-title-b" : "Pensamos y trabajamos diferente por:",
-
-        "card-1-title" : "Empoderamiento",
-        "card-1-parrafo" : "Empoderando a las comunidades donde trabajamos",
-
-        "card-2-title" : "Acceso",
-        "card-2-parrafo" : "Hacer realidad la accesibilidad de los productos del día a día",
-
-        "card-3-title" : "Sostenibilidad",
-        "card-3-parrafo" : "Lograr proyectos 360º sostenibles con impacto social",
-
-        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Saber más"
+        "text-title": "Creando puentes entre culturas",
+         "list-1": "Nuestra experiencia individual y colaborativa para satisfacer esas necesidades es doble: conocemos África y su gente y nos apasiona mejorar constantemente el comercio en todo el continente",
+         "list-2": "Nuestra especialidad es satisfacer las necesidades diarias específicas del continente africano"
 
     },
 
     ".sec-3-lang":{
-        "title" : "Historial sólido",
-        "sub-title" : "Entre 2010 y 2014 Prenova fue responsable de la implementación y ejecución del <span> Polo Agrícola Quizenga & Cobal </span> por un monto superior a los USD 100 millones",
-        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Saber más"
+        "title": "Nuestras especialidades",
+
+         "text-1": "Productos alimenticios",
+         "text-2": "Productos para el cuidado de la salud",
+         "text-3": "Productos de limpieza",
+         "text-4": "Otros productos",
+        
+        "btn":"<i class=\"arrow_right-up icon-zise mr-2\"></i>MÁS INFO"
     },
 
     ".sec-foo-lang":{
-        "title" : "¿Cómo Encontrarnos?",
-        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Contáctenos"
+        "title" : "¿Cómo llegar a nosotros?",
+        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Contáctanos"
     },
 
     
     ".footer-lang":{
-        "copyr" : "Todos los derechos reservados.", 
+        "copyr" : "Todos los derechos reservados.",  
 
-        "link-text-1" : "Empresa",
-        "link-text-2" : "Productos alimenticios",
-        "link-text-3" : "Otros productos",
-        "link-text-4" : "Contacto",
+        "link-text-1": "Acerca de",
+        "link-text-2": "Productos alimenticios",
+        "link-text-3": "Productos para el cuidado de la salud",
+        "link-text-4": "Productos de limpieza",
+        "link-text-5": "Otros productos",
+        "link-text-6" : "Contacto",
 
         "info-text-1" : "Dirección postal",
         "info-text-2" : "Teléfono",
@@ -69,42 +71,61 @@
 
 
 
-    ".company-lang":{
-        "text-title" : "Empresa",
+    ".about-lang":{
+        "text-title": "Quiénes somos",
 
-        "text-title-a" : "+30 años creando puentes entre culturas.",        
-        "parrafo-a" : "Somos una empresa agroindustrial con proyectos en África y Latinoamérica. Nuestra experiencia en diversas tierras y nuestro enfoque holístico nos ha permitido modelar nuestro negocio según los más altos estándares internacionales y sobresalir en la provisión de proyectos agroindustriales complejos llave en mano.",
+        "text-title-b": "Somos una empresa internacional con presencia en varias regiones y países de todo el mundo",
+        "parrafo-1": "Nuestra experiencia en los diversos mercados del mundo nos ha permitido modelar nuestro negocio según los más altos estándares internacionales y sobresalir en los servicios y productos que ofrecemos a los mercados africanos. <br> Además de ofrecer la la mayoría de los productos de primera calidad, podemos cubrir la mayoría de los canales comerciales que juntos nos distinguen como el centro comercial inigualable en África. ",
 
-        "text-title-b" : "Nuestra misión",
-        "parrafo-b" : "Construir proyectos sostenibles y orientados al valor en África y América Latina a través de una experiencia única, la más alta calidad de servicios y utilizando la última tecnología de producción",
 
-        "text-title-c" : "Nuestra visión",
-        "parrafo-c" : "Nuestra visión es ser la primera opción cuando se trata de grandes inversiones agroindustriales",
 
-        "span" : "Nuestros valores", 
+        "text-title-miss": "NUESTRA MISIÓN",
+        "parrafo-miss": "Conectar a los consumidores de África y sus proveedores con la máxima eficiencia. Cumplir y trascender las expectativas de nuestros clientes para brindar soluciones creativas, ingeniosas y rentables. <br> Conducir nuestras relaciones comerciales y laborales de manera que se alinea con nuestros sólidos valores. ",
 
-        "card-text-1" : "Innovación",
-        "card-text-1-p" : "Constantemente estamos soñando nuevas ideas y reevaluando mientras pulimos las viejas. Nuestro equipo de Garantía de Calidad está comprometido con la evaluación continua, la valoración y la auditoría de nuestros estándares y procedimientos, siempre manteniendo Prenova un corte por encima del resto y digno de la fidelidad de nuestros clientes. ",
+        "text-title-vis": "NUESTRA VISIÓN",
+        "parrafo-vis": "Nuestra visión es ser la primera opción a la hora de conectar a los africanos con las marcas y los productos elegidos que desean a precios asequibles",
 
-        "card-text-2" : "Transparencia",
-        "card-text-2-p" : "Nadie hace una gran inversión inmobiliaria sin conocer algo de su historia, por eso estamos comprometidos con un modelo de negocio transparente de comunicación clara con nuestros socios",
 
-        "card-text-3" : "Eficiencia",
-        "card-text-3-p" : "La entrega oportuna de nuestros productos es nuestra prioridad. Es por eso que trabajamos en estrecha colaboración con las principales líneas navieras y proveedores para garantizar una distribución eficaz",
+        "span": "VALORES FUNDAMENTALES", 
 
-        "card-text-4" : "Calidad",
-        "card-text-4-p" : "Estamos comprometidos a proporcionar solo servicios de la más alta calidad para brindar soluciones llave en mano"
+        "card-text-1": "Innovación",
+        "card-text-1-p": "Constantemente estamos soñando nuevas ideas y reevaluando mientras pulimos las viejas. Nuestro equipo de Control de Calidad está comprometido con la evaluación continua, la valoración y la auditoría de nuestros estándares y procedimientos, siempre manteniendo Prenova un corte por encima del resto y digno de la fidelidad de nuestros clientes. ",
+
+        "card-text-2": "Transparencia",
+        "card-text-2-p": "Nadie hace una gran inversión inmobiliaria sin conocer algo de su historia, por eso estamos comprometidos con un modelo de negocio transparente de comunicación clara con nuestros socios",
+
+        "card-text-3": "Eficiencia",
+        "card-text-3-p": "La entrega oportuna de nuestros productos es nuestra prioridad. Es por eso que trabajamos en estrecha colaboración con las principales líneas navieras y proveedores para garantizar una distribución eficaz",
+
+        "card-text-4": "Calidad",
+        "card-text-4-p": "Estamos comprometidos a proporcionar solo servicios de la más alta calidad para brindar soluciones llave en mano"
        
     },
 
 
 
-    ".fp-lang":{
-        "text-title" : "Productos alimenticios",
-        "text-title-b" : "En Prenova, creemos que los alimentos asequibles, de calidad y accesibles son esenciales para la salud de una comunidad",
-        "parrafo-1" : "Es por eso que constantemente realizamos pruebas de control de calidad y buscamos nuevas formas de mantener bajos los costos para los consumidores",
+    ".cp-lang":{
+        "text-title": "Productos de limpieza",
+        "text-title-b": "Ofrecemos una amplia variedad de productos de limpieza e higiene con énfasis en el medio ambiente y la seguridad",
+        "parrafo-1": "Nuestros productos cumplen con los requisitos ambientales y de salud más estrictos. Los productos se empacan en tamaños individuales y familiares para satisfacer las diversas necesidades de las comunidades a las que servimos",
         
+        "text-title-c": "Principales productos de limpieza que comercializamos:",
+            "list-1": "Jabón para lavar ropa",
+            "list-2": "Jabón de tocador",
+            "list-3": "Pasta de dientes",
+            "list-4": "Barras de afeitar",
 
+            "list-5": "Productos de limpieza multiusos",
+            "list-6": "Agentes desinfectantes",
+            "list-7": "Papel higiénico"
+    },
+
+    ".fp-lang":{
+        "text-title": "Productos alimenticios",
+        "text-title-b": "En Audana, creemos que los alimentos asequibles, de calidad y accesibles son esenciales para la salud de una comunidad",
+        "parrafo-1": "Es por eso que constantemente realizamos pruebas de control de calidad y buscamos nuevas formas de mantener bajos los costos para los consumidores",
+        
+        "text-title-c": "Principales productos que comercializamos:",
             "list-1" : "Arroz blanco",
             "list-2" : "Harina de maíz",
             "list-3" : "Espaguetis",
@@ -122,19 +143,34 @@
             "list-14" : "Azúcar"
     },
 
-    ".op-lang":{
-       "text-title" : "Otros productos",
-        "text-title-b" : "Nuestra empresa siempre se esfuerza por ofrecer los mejores productos de mayor valor a toda la comunidad africana",
-        "parrafo-1" : "Gracias a los productos de primera calidad que llevamos, cada familia siempre tendrá los alimentos más nutritivos en la mesa, los armarios más limpios y, en general, una mejor salud y bienestar. <br> En Prenova, estamos sobre la comunidad y la promoción de la mejor calidad de vida para todos los africanos. ",
+    ".hc-lang":{
+        "text-title": "Productos sanitarios",
+        "text-title-b": "Junto con las necesidades dietéticas, creemos que satisfacer las necesidades medicinales y farmacéuticas de una comunidad es esencial para su bienestar",
+        "parrafo-1": "Es por eso que solo tenemos los mejores productos de una amplia gama de marcas reconocidas. Para satisfacer mejor estas necesidades, siempre nos esforzamos por la rentabilidad",
         
-            "list-1" : "Elementos auxiliares del hospital",
-            "list-2" : "Palos de afeitar",
-            "list-3" : "Mosquiteras",
-            "list-4" : "Raciones de alimentos de emergencia",
-            "list-5" : "Más"
+            "list-1": "Antibióticos",
+            "list-2": "Paracetamol",
+            "list-3": "Ibuprofeno",
+            "list-4": "Benadryl",
+
+            "list-5": "Productos médicos y farmacéuticos",
+            "list-6": "Gasa",
+            "list-7": "Elementos auxiliares del hospital",
+            "list-8": "Mosquiteras"
     },
 
-
+    ".op-lang":{
+        "text-title": "Otros productos",
+        "text-title-b": "Nuestra empresa siempre se esfuerza por ofrecer los mejores productos de mayor valor a toda la comunidad africana",
+        "parrafo-1": "Gracias a los productos de primera calidad que llevamos, cada familia siempre tendrá los alimentos más nutritivos en la mesa, los armarios más limpios y, en general, una mejor salud y bienestar. <br> En Audana, estamos sobre la comunidad y la promoción de la mejor calidad de vida para todos los africanos. ",
+        
+        "text-title-c": "Algunos de los productos que hemos comercializado <br> durante los últimos 10 años también incluyen:",
+            "list-1": "Raciones de alimentos de emergencia",
+            "list-2": "Elementos auxiliares del hospital",
+            "list-3": "Barras de afeitar",
+            "list-4": "Mosquiteras"
+    },
+    
     ".error-lang":{        
         "title" : "Error 404",
         "sub-title" : "Algo salió mal y no podemos encontrar el enlace solicitado, lo sentimos.",

@@ -880,7 +880,7 @@ to {
     font-weight: 400;
     position: absolute;
     margin-top: -10rem;
-    width: auto;
+    width: 200%;
     margin-left: 7rem;
     z-index: -2;
     color: #fff;

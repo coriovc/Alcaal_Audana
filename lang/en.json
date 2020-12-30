@@ -2,49 +2,49 @@
     
     ".head-lang":{        
         "item-1" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Company",        
-        "item-2" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Food productos",
-        "item-3" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Other products",
-        "item-4" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Contact",
+        "item-2" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Services<i id=\"drop\" class=\"arrow_carrot-down\"></i>",
+            "item-2-a" : "Empowering the<br>communities with trade",
+            "item-2-1" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Food Products",
+            "item-2-2" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Health Care Products",
+            "item-2-3" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Cleaning Products",
+            "item-2-4" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Other Products",
+        "item-3" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Contact",
 
         "select-lang" : "ENG",
         "select-idioma" :"<button class=\"dropdown-item active\" type=\"button\" onclick=\"setLanguage('en')\">English</button><button class=\"dropdown-item\" type=\"button\" onclick=\"setLanguage('es')\">Español</button>"
     },
 
     ".welcome-area-lang":{
-        "title":"Creating bridges between cultures"
+        "title":"More than 10 years",
+        "parrafo":"empowering the communities where we trade",
+        "img":""
+
     },
 
     ".sec-1-lang":{
         
-        "text-title":"More than 30 years",
-        "text-title-b":"of experience in large scale agro industrial projects.",
-        "btn":"<i class=\"arrow_right-up icon-zise mr-2\"></i>About Prenova"
+        "text-title":"We have the track record, scale and experience needed to deliver.",
+        "text-title-b":"Building on over ten years of multinational experience in international commerce, we are a team of professionals dedicated to the growth and efficiency of global trade.",
+        "btn":"<i class=\"arrow_right-up icon-zise mr-2\"></i>About Audana"
     },
 
 
     ".sec-2-lang":{
-        "text-title":"Food production projects",
-        "parra" : "Our specialty is creating sustainable projects in the African continent meant to improve quality of life and self-sufficiency to communities through food production projects.",
-        "text-title-b":"We think and work different by:",
-
-        "card-1-title" : "Empowerment",
-        "card-1-parrafo" : "Empowering the communities where we work.",
-
-        "card-2-title" : "Access",
-        "card-2-parrafo" : "Making the accessibility of every day products a reality.",
-
-        "card-3-title" : "Sustaintability",
-        "card-3-parrafo" : "Achieving 360º sustainable projects with a social impact.",
-
-        "btn":"<i class=\"arrow_right-up icon-zise mr-2\"></i>Know more"
+        "text-title":"Creating bridges between cultures",
+        "list-1" : "Our individual and collaborative experience meeting those needs is two-fold: we know Africa and its people and we are passionate about consistently improving trade throughout the continent.",
+        "list-2" : "Our specialty is meeting the specific daily needs of the African continent."
 
     },
 
     ".sec-3-lang":{
-        "title" : "Solid track record",
-        "sub-title" : "Between 2010 and 2014 Prenova was responsible for the implementation and execution of <span>Quizenga & Cobal Agricultural pole</span> amounting to over USD 100 million.",
+        "title" : "Our specialties",
 
-        "btn":"<i class=\"arrow_right-up icon-zise mr-2\"></i>Know more"
+        "text-1" : "Food products",
+        "text-2" : "Health care products",
+        "text-3" : "Cleaning products",
+        "text-4" : "Other products",
+        
+        "btn":"<i class=\"arrow_right-up icon-zise mr-2\"></i>MORE INFO"
     },
 
     ".sec-foo-lang":{
@@ -56,10 +56,12 @@
     ".footer-lang":{
         "copyr" : "All rights reserved.", 
 
-        "link-text-1" : "Company",
-        "link-text-2" : "Food productos",
-        "link-text-3" : "Other products",
-        "link-text-4" : "Contact",
+        "link-text-1" : "About",
+        "link-text-2" : "Food products",
+        "link-text-3" : "Health care products",
+        "link-text-4" : "Cleaning products",
+        "link-text-5" : "Other products",
+        "link-text-6" : "Contact",
 
         "info-text-1" : "Postal Address",
         "info-text-2" : "Phone",
@@ -71,19 +73,22 @@
 
 
 
-    ".company-lang":{
-        "text-title" : "Company",
+    ".about-lang":{
+        "text-title" : "About us",
 
-        "text-title-a" : "+30 years creating bridges between cultures.",        
-        "parrafo-a" : "We are an agro industrial company with projects in Africa and Latin America. Our expertise in diverse lands and holistic approach has allowed us to model our business after the highest international standards and excel in the provision of turnkey complex agro industrial projects.",
+        "text-title-b" : "We are an international company with a presence in various regions and countries across the globe.",        
+        "parrafo-1" : "Our expertise in the diverse markets of the world has allowed us to model our business after the highest international standards and excel in the services and products we offer to the African markets.<br>In addition to offering the most premium quality products, we are able to cover most trade channels which together set us apart as the unrivaled trading hub in Africa.",
 
-        "text-title-b" : "Our Mission",        
-        "parrafo-b" : "To build sustainable and value oriented projects in Africa and Latin America through unique expertise, the highest quality of services and using the latest production technology.",
 
-        "text-title-c" : "Our Vision",        
-        "parrafo-c" : "Our vision is to be the first choice when it comes to large Agro Industrial investments.",
 
-        "span" : "Our Values", 
+        "text-title-miss" : "OUR MISSION",        
+        "parrafo-miss" : "To connect Africa’s consumers and its providers with utmost efficiency.  To meet and transcend our clients’ expectations to provide creative, resourceful, and profitable solutions.<br>To conduct our business and working relationships in a way that aligns with our strong values.",
+
+        "text-title-vis" : "OUR VISION",        
+        "parrafo-vis" : "Our vision is to be the first choice when connecting Africans with the choice brands and products they want at affordable prices.",
+
+
+        "span" : "CORE VALUES", 
 
         "card-text-1" : "Innovación",
         "card-text-1-p" : "We are constantly dreaming up new ideas and re-evaluating while polishing the old. Our Quality Assurance team is committed to continuous evaluating, assessing, and auditing of our standards and procedures, always keeping Prenova a cut above the rest and worthy of our clients’ loyalty.",
@@ -101,12 +106,28 @@
 
 
 
+    ".cp-lang":{
+        "text-title" : "Cleaning Products",
+        "text-title-b" : "We offer a wide variety of cleaning and hygiene products with an emphasis on the environment and safety.",
+        "parrafo-1" : "Our products meet the most stringent health and environmental requirements. Products are packaged in individual and family sizes to meet the diverse needs of the communities we serve.",
+        
+        "text-title-c" : "Main cleaning products we trade:",
+            "list-1" : "Laundry Soap",
+            "list-2" : "Toilet Soap",
+            "list-3" : "Toothpaste",
+            "list-4" : "Shaving Sticks",
+
+            "list-5" : "Multiuse Cleaning Products",
+            "list-6" : "Disinfecting Agents",
+            "list-7" : "Toilet Paper"
+    },
+
     ".fp-lang":{
         "text-title" : "Food Products",
-        "text-title-b" : "At Prenova, we believe that affordable, quality, accessible foodstuff is essential to the health of a community.",
+        "text-title-b" : "At Audana, we believe that affordable, quality, accessible foodstuff is essential to the health of a community.",
         "parrafo-1" : "This is why we constantly perform quality assurance tests and look for new ways to keep costs down for consumers.",
         
-
+        "text-title-c" : "Main products we trade:",
             "list-1" : "White Rice",
             "list-2" : "Corn Flour",
             "list-3" : "Spaghetti",
@@ -124,16 +145,32 @@
             "list-14" : "Sugar"
     },
 
+    ".hc-lang":{
+        "text-title" : "Health Care Products",
+        "text-title-b" : "Along with dietary needs, we believe that meeting the medicinal and pharmaceutical needs of a community is essential to its well-being.",
+        "parrafo-1" : "This is why we only carry the best products from a wide range of recognized brands. In order to best fulfill these needs, we always strive for cost-efficiency.",
+        
+            "list-1" : "Antibiotics",
+            "list-2" : "Paracetamol",
+            "list-3" : "Ibuprofen",
+            "list-4" : "Benadryl",
+
+            "list-5" : "Medical and Pharmaceutical Products",
+            "list-6" : "Gauze",
+            "list-7" : "Hospital ancillary items",
+            "list-8" : "Mosquito Nets"
+    },
+
     ".op-lang":{
         "text-title" : "Other Products",
         "text-title-b" : "Our company always strives to provide the best products of greatest value to the entire African community.",
-        "parrafo-1" : "Thanks to the premium quality products we carry, every family will always have the most nutritional foods on the table, the cleanest cupboards, and over-all better health and wellness.<br>At Prenova, we are about community and promoting the best quality of life for all Africans.",
+        "parrafo-1" : "Thanks to the premium quality products we carry, every family will always have the most nutritional foods on the table, the cleanest cupboards, and over-all better health and wellness.<br>At Audana, we are about community and promoting the best quality of life for all Africans.",
         
-            "list-1" : "Hospital ancillary items",
-            "list-2" : "Shaving Sticks",
-            "list-3" : "Mosquito Nets",
-            "list-4" : "Emergency Food Rations",
-            "list-5" : "More"
+        "text-title-c" : "Some of the products we have traded<br>over the last 10 years also include:",
+            "list-1" : "Emergency Food Rations",
+            "list-2" : "Hospital ancillary items",
+            "list-3" : "Shaving Sticks",
+            "list-4" : "Mosquito Nets"
     },
     
     ".error-lang":{        
