@@ -4948,11 +4948,15 @@ textarea.form-control {
     position: absolute;
     margin-top: -4.5rem;
     margin-left: 31rem; }
+    .welcome-text img.flecha {
+      margin-left: 34rem; }
     @media only screen and (max-width: 767px) {
       .welcome-text img {
         width: 45px;
         margin-top: -3.5rem;
-        margin-left: 15rem; } }
+        margin-left: 15rem; }
+        .welcome-text img.flecha {
+          margin-left: 16rem; } }
   .welcome-text h5 {
     font-size: 22px;
     color: A868AA;

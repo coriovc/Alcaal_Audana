@@ -95,10 +95,18 @@
             margin-top: -4.5rem;
             margin-left: 31rem;
 
+            &.flecha{
+                margin-left: 34rem;
+            }
+
              @media #{$breakpoint-xs} {
                 width: 45px;
                 margin-top: -3.5rem;
                 margin-left: 15rem;
+                
+                &.flecha{
+                margin-left: 16rem;
+                }
             }
         }
 
