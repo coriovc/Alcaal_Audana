@@ -1,0 +1,161 @@
+{   
+    
+    ".head-lang":{        
+        "item-1" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Company",        
+        "item-2" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Food productos",
+        "item-3" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Other products",
+        "item-4" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Contact",
+
+        "select-lang" : "ENG",
+        "select-idioma" :"<button class=\"dropdown-item active\" type=\"button\" onclick=\"setLanguage('en')\">English</button><button class=\"dropdown-item\" type=\"button\" onclick=\"setLanguage('es')\">Español</button>"
+    },
+
+    ".welcome-area-lang":{
+        "title":"Creating bridges between cultures"
+    },
+
+    ".sec-1-lang":{
+        
+        "text-title":"More than 30 years",
+        "text-title-b":"of experience in large scale agro industrial projects.",
+        "btn":"<i class=\"arrow_right-up icon-zise mr-2\"></i>About Prenova"
+    },
+
+
+    ".sec-2-lang":{
+        "text-title":"Food production projects",
+        "parra" : "Our specialty is creating sustainable projects in the African continent meant to improve quality of life and self-sufficiency to communities through food production projects.",
+        "text-title-b":"We think and work different by:",
+
+        "card-1-title" : "Empowerment",
+        "card-1-parrafo" : "Empowering the communities where we work.",
+
+        "card-2-title" : "Access",
+        "card-2-parrafo" : "Making the accessibility of every day products a reality.",
+
+        "card-3-title" : "Sustaintability",
+        "card-3-parrafo" : "Achieving 360º sustainable projects with a social impact.",
+
+        "btn":"<i class=\"arrow_right-up icon-zise mr-2\"></i>Know more"
+
+    },
+
+    ".sec-3-lang":{
+        "title" : "Solid track record",
+        "sub-title" : "Between 2010 and 2014 Prenova was responsible for the implementation and execution of <span>Quizenga & Cobal Agricultural pole</span> amounting to over USD 100 million.",
+
+        "btn":"<i class=\"arrow_right-up icon-zise mr-2\"></i>Know more"
+    },
+
+    ".sec-foo-lang":{
+        "title" : "How to reach us?",
+        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Contact us"
+    },
+
+    
+    ".footer-lang":{
+        "copyr" : "All rights reserved.", 
+
+        "link-text-1" : "Company",
+        "link-text-2" : "Food productos",
+        "link-text-3" : "Other products",
+        "link-text-4" : "Contact",
+
+        "info-text-1" : "Postal Address",
+        "info-text-2" : "Phone",
+
+        "select-lang" : "ENG",
+        "select-idioma" :"<button class=\"dropdown-item active\" type=\"button\" onclick=\"setLanguage('en')\">English</button><button class=\"dropdown-item\" type=\"button\" onclick=\"setLanguage('es')\">Español</button>"
+    },
+
+
+
+
+    ".company-lang":{
+        "text-title" : "Company",
+
+        "text-title-a" : "+30 years creating bridges between cultures.",        
+        "parrafo-a" : "We are an agro industrial company with projects in Africa and Latin America. Our expertise in diverse lands and holistic approach has allowed us to model our business after the highest international standards and excel in the provision of turnkey complex agro industrial projects.",
+
+        "text-title-b" : "Our Mission",        
+        "parrafo-b" : "To build sustainable and value oriented projects in Africa and Latin America through unique expertise, the highest quality of services and using the latest production technology.",
+
+        "text-title-c" : "Our Vision",        
+        "parrafo-c" : "Our vision is to be the first choice when it comes to large Agro Industrial investments.",
+
+        "span" : "Our Values", 
+
+        "card-text-1" : "Innovación",
+        "card-text-1-p" : "We are constantly dreaming up new ideas and re-evaluating while polishing the old. Our Quality Assurance team is committed to continuous evaluating, assessing, and auditing of our standards and procedures, always keeping Prenova a cut above the rest and worthy of our clients’ loyalty.",
+
+        "card-text-2" : "Transparency",
+        "card-text-2-p" : "No one makes a major property investment without knowing something about its history, which is why we are committed to a transparent business model of clear communication with our partners.",
+
+        "card-text-3" : "Efficiency",
+        "card-text-3-p" : "Timely delivery of our products is our priority. This is why we work closely with the main shipping lines and suppliers to ensure effective distribution.", 
+
+        "card-text-4" : "Quality",
+        "card-text-4-p" : "We are committed to providing only the highest quality services to provide turnkey solutions."
+       
+    },
+
+
+
+    ".fp-lang":{
+        "text-title" : "Food Products",
+        "text-title-b" : "At Prenova, we believe that affordable, quality, accessible foodstuff is essential to the health of a community.",
+        "parrafo-1" : "This is why we constantly perform quality assurance tests and look for new ways to keep costs down for consumers.",
+        
+
+            "list-1" : "White Rice",
+            "list-2" : "Corn Flour",
+            "list-3" : "Spaghetti",
+            "list-4" : "Pinto Beans",
+            "list-5" : "Frozen Meat",
+            "list-6" : "Frozen Chicken",
+            "list-7" : "Frozen Fish",
+
+            "list-8" : "Vegetable oil",
+            "list-9" : "Condensed Milk",
+            "list-10" : "UHT Milk",
+            "list-11" : "Cream crackers",
+            "list-12" : "Wheat Flour",
+            "list-13" : "Tomato Paste",
+            "list-14" : "Sugar"
+    },
+
+    ".op-lang":{
+        "text-title" : "Other Products",
+        "text-title-b" : "Our company always strives to provide the best products of greatest value to the entire African community.",
+        "parrafo-1" : "Thanks to the premium quality products we carry, every family will always have the most nutritional foods on the table, the cleanest cupboards, and over-all better health and wellness.<br>At Prenova, we are about community and promoting the best quality of life for all Africans.",
+        
+            "list-1" : "Hospital ancillary items",
+            "list-2" : "Shaving Sticks",
+            "list-3" : "Mosquito Nets",
+            "list-4" : "Emergency Food Rations",
+            "list-5" : "More"
+    },
+    
+    ".error-lang":{        
+        "title" : "Error 404",
+        "sub-title" : "Something went wrong and we can´t find the requested link, sorry.",
+        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Back to Home"
+    },
+    
+    ".contact-lang":{
+        "text-title" : "Contact us",
+
+        "sub-title-1":"Postal Address",
+
+        "name" : "<input type=\"text\" class=\"form-control\" name=\"name\" placeholder=\"Enter your full name\">",
+        "phone" : "<input type=\"tel\" class=\"form-control\" name=\"phone\" placeholder=\"Enter your phone number\">",
+        "email" : "<input type=\"email\" class=\"form-control\" name=\"email\" placeholder=\"Enter your email\">",
+        "message" : "<textarea class=\"form-control\" name=\"message\" rows=\"5\" cols=\"80\" placeholder=\"Message\"></textarea>",
+
+        "btn-send" : "SEND",
+        "gracias" : "Thank you very much!",
+        "parrafo-gra" : "The form was sent successfully, In the near future we will contact."
+    }
+
+
+}

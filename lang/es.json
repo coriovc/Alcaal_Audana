@@ -1,0 +1,160 @@
+{   
+    
+    ".head-lang":{        
+        "item-1" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Empresa",        
+        "item-2" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Productos alimenticios",
+        "item-3" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Otros productos",
+        "item-4" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Contacto",
+
+        "select-lang" : "ESP",
+        "select-idioma" :"<button class=\"dropdown-item\" type=\"button\" onclick=\"setLanguage('en')\">English</button><button class=\"dropdown-item active\" type=\"button\" onclick=\"setLanguage('es')\">Español</button>"
+    },
+
+    ".welcome-area-lang":{
+        "title" : "Creando puentes entre culturas"
+    },
+
+    ".sec-1-lang":{
+        "text-title" : "Más de 30 años",
+        "text-title-b" : "de experiencia en proyectos agroindustriales a gran escala",
+        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Sobre Prenova"
+    },
+
+
+    ".sec-2-lang":{
+        "text-title" : "Proyectos de producción de alimentos",
+        "parra" : "Nuestra especialidad es la creación de proyectos sostenibles en el continente africano destinados a mejorar la calidad de vida y la autosuficiencia de las comunidades a través de proyectos de producción de alimentos",
+        "text-title-b" : "Pensamos y trabajamos diferente por:",
+
+        "card-1-title" : "Empoderamiento",
+        "card-1-parrafo" : "Empoderando a las comunidades donde trabajamos",
+
+        "card-2-title" : "Acceso",
+        "card-2-parrafo" : "Hacer realidad la accesibilidad de los productos del día a día",
+
+        "card-3-title" : "Sostenibilidad",
+        "card-3-parrafo" : "Lograr proyectos 360º sostenibles con impacto social",
+
+        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Saber más"
+
+    },
+
+    ".sec-3-lang":{
+        "title" : "Historial sólido",
+        "sub-title" : "Entre 2010 y 2014 Prenova fue responsable de la implementación y ejecución del <span> Polo Agrícola Quizenga & Cobal </span> por un monto superior a los USD 100 millones",
+        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Saber más"
+    },
+
+    ".sec-foo-lang":{
+        "title" : "¿Cómo Encontrarnos?",
+        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Contáctenos"
+    },
+
+    
+    ".footer-lang":{
+        "copyr" : "Todos los derechos reservados.", 
+
+        "link-text-1" : "Empresa",
+        "link-text-2" : "Productos alimenticios",
+        "link-text-3" : "Otros productos",
+        "link-text-4" : "Contacto",
+
+        "info-text-1" : "Dirección postal",
+        "info-text-2" : "Teléfono",
+
+        "select-lang" : "ESP",
+        "select-idioma" :"<button class=\"dropdown-item\" type=\"button\" onclick=\"setLanguage('en')\">English</button><button class=\"dropdown-item active\" type=\"button\" onclick=\"setLanguage('es')\">Español</button>"
+    },
+
+
+
+
+    ".company-lang":{
+        "text-title" : "Empresa",
+
+        "text-title-a" : "+30 años creando puentes entre culturas.",        
+        "parrafo-a" : "Somos una empresa agroindustrial con proyectos en África y Latinoamérica. Nuestra experiencia en diversas tierras y nuestro enfoque holístico nos ha permitido modelar nuestro negocio según los más altos estándares internacionales y sobresalir en la provisión de proyectos agroindustriales complejos llave en mano.",
+
+        "text-title-b" : "Nuestra misión",
+        "parrafo-b" : "Construir proyectos sostenibles y orientados al valor en África y América Latina a través de una experiencia única, la más alta calidad de servicios y utilizando la última tecnología de producción",
+
+        "text-title-c" : "Nuestra visión",
+        "parrafo-c" : "Nuestra visión es ser la primera opción cuando se trata de grandes inversiones agroindustriales",
+
+        "span" : "Nuestros valores", 
+
+        "card-text-1" : "Innovación",
+        "card-text-1-p" : "Constantemente estamos soñando nuevas ideas y reevaluando mientras pulimos las viejas. Nuestro equipo de Garantía de Calidad está comprometido con la evaluación continua, la valoración y la auditoría de nuestros estándares y procedimientos, siempre manteniendo Prenova un corte por encima del resto y digno de la fidelidad de nuestros clientes. ",
+
+        "card-text-2" : "Transparencia",
+        "card-text-2-p" : "Nadie hace una gran inversión inmobiliaria sin conocer algo de su historia, por eso estamos comprometidos con un modelo de negocio transparente de comunicación clara con nuestros socios",
+
+        "card-text-3" : "Eficiencia",
+        "card-text-3-p" : "La entrega oportuna de nuestros productos es nuestra prioridad. Es por eso que trabajamos en estrecha colaboración con las principales líneas navieras y proveedores para garantizar una distribución eficaz",
+
+        "card-text-4" : "Calidad",
+        "card-text-4-p" : "Estamos comprometidos a proporcionar solo servicios de la más alta calidad para brindar soluciones llave en mano"
+       
+    },
+
+
+
+    ".fp-lang":{
+        "text-title" : "Productos alimenticios",
+        "text-title-b" : "En Prenova, creemos que los alimentos asequibles, de calidad y accesibles son esenciales para la salud de una comunidad",
+        "parrafo-1" : "Es por eso que constantemente realizamos pruebas de control de calidad y buscamos nuevas formas de mantener bajos los costos para los consumidores",
+        
+
+            "list-1" : "Arroz blanco",
+            "list-2" : "Harina de maíz",
+            "list-3" : "Espaguetis",
+            "list-4" : "Frijoles Pintos",
+            "list-5" : "Carne congelada",
+            "list-6" : "Pollo congelado",
+            "list-7" : "Pescado congelado",
+
+            "list-8" : "Aceite vegetal",
+            "list-9" : "Leche condensada",
+            "list-10" : "Leche UHT",
+            "list-11" : "Galletas de crema",
+            "list-12" : "Harina de trigo",
+            "list-13" : "Pasta de tomate",
+            "list-14" : "Azúcar"
+    },
+
+    ".op-lang":{
+       "text-title" : "Otros productos",
+        "text-title-b" : "Nuestra empresa siempre se esfuerza por ofrecer los mejores productos de mayor valor a toda la comunidad africana",
+        "parrafo-1" : "Gracias a los productos de primera calidad que llevamos, cada familia siempre tendrá los alimentos más nutritivos en la mesa, los armarios más limpios y, en general, una mejor salud y bienestar. <br> En Prenova, estamos sobre la comunidad y la promoción de la mejor calidad de vida para todos los africanos. ",
+        
+            "list-1" : "Elementos auxiliares del hospital",
+            "list-2" : "Palos de afeitar",
+            "list-3" : "Mosquiteras",
+            "list-4" : "Raciones de alimentos de emergencia",
+            "list-5" : "Más"
+    },
+
+
+    ".error-lang":{        
+        "title" : "Error 404",
+        "sub-title" : "Algo salió mal y no podemos encontrar el enlace solicitado, lo sentimos.",
+        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Volver al inicio"
+    },
+    
+    ".contact-lang":{
+        "text-title" : "Contáctanos",
+
+        "sub-title-1":"Dirección postal",
+
+        "name" : "<input type=\"text\" class=\"form-control\" name=\"name\" placeholder=\"Ingrese su nombre completo\">",
+        "phone" : "<input type=\"tel\" class=\"form-control\" name=\"phone\" placeholder=\"Ingrese su número telefónico\">",
+        "email" : "<input type=\"email\" class=\"form-control\" name=\"email\" placeholder=\"Introduce tu correo electrónico\">",
+        "message" : "<textarea class=\"form-control\" name=\"message\" rows=\"5\" cols=\"80\" placeholder=\"Mensaje\"></textarea>",
+
+        "btn-send" : "ENVIAR",
+        "gracias" : "¡Muchas gracias!",
+        "parrafo-gra" : "El formulario fue enviado con éxito, en un futuro próximo nos contactaremos."
+    }
+
+
+}
